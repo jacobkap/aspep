@@ -1,0 +1,1837 @@
+state,government_function,full_time_equivalent_employees,october_total_pay,full_time_employees,part_time_employees,full_time_pay,part_time_pay,part_time_hours,year
+US,total,3835982,9750395064,3367614,1219085,8817492437,932902627,81982105,1992
+US,financial administration,147311,351077156,143336,7276,343894436,7182720,695704,1992
+US,other government administration,46391,124672486,41928,9813,110992705,13679781,771069,1992
+US,judicial and legal,110671,349875829,106970,6578,341652488,8223341,642693,1992
+US,police protection - officers,55104,176986231,55077,63,176928369,57862,5019,1992
+US,police protection - other,30924,69961260,30420,1046,69055899,905361,87973,1992
+US,corrections,344794,843513016,339937,8048,828970766,14542250,854305,1992
+US,highways,256829,625914825,250320,11042,613493522,12421303,1150680,1992
+US,air transportation,2707,7086386,2654,120,6961902,124484,9238,1992
+US,water transport and terminals,4452,11820508,4382,129,11706308,114200,12176,1992
+US,public welfare,211552,471050080,205707,9725,459879226,11170854,1018689,1992
+US,health,160481,389150006,153159,13729,373514185,15635821,1284962,1992
+US,hospitals,523332,1196506452,488999,63303,1118156496,78349956,6025956,1992
+US,social insurance administration,114126,275305333,106117,12026,258216736,17088597,1397584,1992
+US,solid waste management,1332,4250791,1302,72,4183966,66825,4955,1992
+US,sewerage,1222,3460373,1214,13,3434973,25400,1493,1992
+US,parks and recreation,35783,70086091,27245,15198,58474061,11612030,1503722,1992
+US,natural resources,147286,354710250,131070,51211,325141845,29568405,2858401,1992
+US,water transport and terminals,936,2562732,930,8,2548927,13805,925,1992
+US,electric power,6463,24680827,6119,640,23694464,986363,60899,1992
+US,transit,20575,77670238,20275,549,77107718,562520,53047,1992
+US,elem and sec school instructional,21422,65113400,19997,5255,61234977,3878423,251153,1992
+US,elem and sec sch,7856,15447712,6554,4907,13348580,2099132,229928,1992
+US,elem and sec admin - clerical,2265,5932990,2152,356,5653388,279602,20025,1992
+US,elem and sec oper and maintenance,3198,5664191,2703,1471,4920442,743749,86982,1992
+US,elem and sec cafeteria,1804,2831331,1434,1394,2226613,604718,65580,1992
+US,elem and sec bus transportation,49,86664,29,35,48163,38501,3398,1992
+US,elem and sec health and recreation,98,299017,80,90,260387,38630,3334,1992
+US,elem and sec student employees,72,63360,0,306,0,63360,12699,1992
+US,elem and sec unallocable,370,570159,156,1255,239587,330572,37910,1992
+US,higher educ instructional,435789,1669789871,319965,293351,1333092198,336697673,20257460,1992
+US,education - higher education other,830922,1731693594,601640,668918,1392122717,339570877,40101572,1992
+US,education - other,98167,241818540,92679,13349,231337864,10480676,960786,1992
+US,libraries,612,1320154,577,72,1240038,80116,6186,1992
+US,liquor stores,9145,18390255,7627,3462,16059302,2330953,265923,1992
+US,other and unallocable,209798,576480668,201414,19182,561047769,15432899,1469607,1992
+AL,total,81101,176928612,73642,21265,165172660,11755952,1300490,1992
+AL,financial administration,2603,5908004,2575,36,5883119,24885,4941,1992
+AL,other government administration,488,1217430,486,10,1210836,6594,552,1992
+AL,judicial and legal,2629,6990003,2555,132,6829923,160080,13072,1992
+AL,police protection - officers,649,2315503,649,0,2315503,0,0,1992
+AL,police protection - other,424,1009823,424,0,1009823,0,0,1992
+AL,corrections,3911,8530634,3908,7,8525838,4796,566,1992
+AL,highways,4269,8795193,4233,58,8733688,61505,6421,1992
+AL,air transportation,0,0,0,0,0,0,0,1992
+AL,water transport and terminals,418,1096598,418,0,1096598,0,0,1992
+AL,public welfare,4510,9245843,4491,37,9206498,39345,3394,1992
+AL,health,6135,11375372,5626,802,10865566,509806,89886,1992
+AL,hospitals,12784,23536619,12207,1386,21857012,1679607,102172,1992
+AL,social insurance administration,1497,3210876,1473,59,3187164,23712,4187,1992
+AL,solid waste management,0,0,0,0,0,0,0,1992
+AL,sewerage,0,0,0,0,0,0,0,1992
+AL,parks and recreation,892,1227424,468,573,856245,371179,74935,1992
+AL,natural resources,3186,6982434,3060,438,6820148,162286,22302,1992
+AL,water transport and terminals,0,0,0,0,0,0,0,1992
+AL,electric power,0,0,0,0,0,0,0,1992
+AL,transit,0,0,0,0,0,0,0,1992
+AL,elem and sec school instructional,0,0,0,0,0,0,0,1992
+AL,elem and sec sch,0,0,0,0,0,0,0,1992
+AL,elem and sec admin - clerical,0,0,0,0,0,0,0,1992
+AL,elem and sec oper and maintenance,0,0,0,0,0,0,0,1992
+AL,elem and sec cafeteria,0,0,0,0,0,0,0,1992
+AL,elem and sec bus transportation,0,0,0,0,0,0,0,1992
+AL,elem and sec health and recreation,0,0,0,0,0,0,0,1992
+AL,elem and sec student employees,0,0,0,0,0,0,0,1992
+AL,elem and sec unallocable,0,0,0,0,0,0,0,1992
+AL,higher educ instructional,10491,35294091,8625,6094,31003773,4290318,322653,1992
+AL,education - higher education other,19618,35312836,16137,10813,31370602,3942234,605265,1992
+AL,education - other,3964,9158497,3748,684,8760151,398346,37580,1992
+AL,libraries,0,0,0,0,0,0,0,1992
+AL,liquor stores,874,1686760,874,0,1686760,0,0,1992
+AL,other and unallocable,1759,4034672,1685,136,3953413,81259,12564,1992
+AK,total,23818,76065702,22041,5050,72184275,3881427,309870,1992
+AK,financial administration,888,3183124,881,11,3163555,19569,1062,1992
+AK,other government administration,481,1509036,471,37,1478917,30119,1557,1992
+AK,judicial and legal,1100,4108556,1076,52,4035581,72975,4006,1992
+AK,police protection - officers,289,1396426,289,0,1396426,0,0,1992
+AK,police protection - other,142,344194,142,0,344194,0,0,1992
+AK,corrections,1216,4523555,1215,2,4520538,3017,120,1992
+AK,highways,2978,11480727,2965,14,11449078,31649,2225,1992
+AK,air transportation,0,0,0,0,0,0,0,1992
+AK,water transport and terminals,0,0,0,0,0,0,0,1992
+AK,public welfare,1698,5054379,1580,160,4859156,195223,19558,1992
+AK,health,462,1588647,444,32,1533390,55257,2905,1992
+AK,hospitals,382,1185948,361,32,1146383,39565,3520,1992
+AK,social insurance administration,452,1544075,448,9,1528722,15353,793,1992
+AK,solid waste management,0,0,0,0,0,0,0,1992
+AK,sewerage,0,0,0,0,0,0,0,1992
+AK,parks and recreation,92,292546,91,2,289678,2868,184,1992
+AK,natural resources,2658,8762990,2598,121,8629548,133442,10307,1992
+AK,water transport and terminals,0,0,0,0,0,0,0,1992
+AK,electric power,0,0,0,0,0,0,0,1992
+AK,transit,590,2403306,590,0,2403306,0,0,1992
+AK,elem and sec school instructional,1602,6103665,1413,548,5683871,419794,32596,1992
+AK,elem and sec sch,951,2644018,775,526,2276603,367415,30768,1992
+AK,elem and sec admin - clerical,380,1227331,350,139,1158921,68410,5257,1992
+AK,elem and sec oper and maintenance,431,1126112,349,185,951397,174715,13929,1992
+AK,elem and sec cafeteria,77,174111,44,77,101912,72199,5914,1992
+AK,elem and sec bus transportation,5,13334,3,6,7920,5414,497,1992
+AK,elem and sec health and recreation,39,64111,21,75,30626,33485,3108,1992
+AK,elem and sec student employees,8,7130,0,36,0,7130,1453,1992
+AK,elem and sec unallocable,11,31889,8,8,25827,6062,610,1992
+AK,higher educ instructional,1469,5790998,1208,1170,4762865,1028133,46146,1992
+AK,education - higher education other,4405,7801140,3576,2195,6430207,1370933,146777,1992
+AK,education - other,477,1569080,466,30,1542984,26096,1895,1992
+AK,libraries,0,0,0,0,0,0,0,1992
+AK,liquor stores,0,0,0,0,0,0,0,1992
+AK,other and unallocable,1486,4779292,1452,109,4709273,70019,5451,1992
+AZ,total,54064,121955310,46999,17805,110977095,10978215,1250275,1992
+AZ,financial administration,2746,5217618,2725,38,5179175,38443,3601,1992
+AZ,other government administration,676,1526029,648,59,1466091,59938,5024,1992
+AZ,judicial and legal,1032,3294558,1007,57,3231889,62669,4318,1992
+AZ,police protection - officers,972,3066558,972,0,3066558,0,0,1992
+AZ,police protection - other,698,1759566,695,7,1754795,4771,447,1992
+AZ,corrections,6232,11855100,6226,12,11837388,17712,1107,1992
+AZ,highways,3190,7219515,3190,0,7219515,0,0,1992
+AZ,air transportation,0,0,0,0,0,0,0,1992
+AZ,water transport and terminals,0,0,0,0,0,0,0,1992
+AZ,public welfare,4963,11113204,4923,71,11035944,77260,6935,1992
+AZ,health,2449,5573354,2394,126,5468781,104573,9675,1992
+AZ,hospitals,988,1728357,963,68,1700914,27443,4357,1992
+AZ,social insurance administration,2689,5899262,2663,32,5842703,56559,4683,1992
+AZ,solid waste management,0,0,0,0,0,0,0,1992
+AZ,sewerage,0,0,0,0,0,0,0,1992
+AZ,parks and recreation,788,1829619,239,1781,650002,1179617,97088,1992
+AZ,natural resources,2285,4963972,1969,633,4508248,455724,55736,1992
+AZ,water transport and terminals,0,0,0,0,0,0,0,1992
+AZ,electric power,10,26426,9,5,26066,360,96,1992
+AZ,transit,0,0,0,0,0,0,0,1992
+AZ,elem and sec school instructional,0,0,0,0,0,0,0,1992
+AZ,elem and sec sch,0,0,0,0,0,0,0,1992
+AZ,elem and sec admin - clerical,0,0,0,0,0,0,0,1992
+AZ,elem and sec oper and maintenance,0,0,0,0,0,0,0,1992
+AZ,elem and sec cafeteria,0,0,0,0,0,0,0,1992
+AZ,elem and sec bus transportation,0,0,0,0,0,0,0,1992
+AZ,elem and sec health and recreation,0,0,0,0,0,0,0,1992
+AZ,elem and sec student employees,0,0,0,0,0,0,0,1992
+AZ,elem and sec unallocable,0,0,0,0,0,0,0,1992
+AZ,higher educ instructional,5357,19349958,3531,4124,15637611,3712347,323222,1992
+AZ,education - higher education other,13469,25863013,9410,10506,20852232,5010781,718442,1992
+AZ,education - other,2649,5836006,2611,88,5766321,69685,6942,1992
+AZ,libraries,0,0,0,0,0,0,0,1992
+AZ,liquor stores,0,0,0,0,0,0,0,1992
+AZ,other and unallocable,2871,5833195,2824,198,5732862,100333,8602,1992
+AR,total,46596,99385151,42183,11181,92597466,6787685,780965,1992
+AR,financial administration,1757,3280993,1679,85,3225974,55019,13887,1992
+AR,other government administration,633,1263442,633,1,1263300,142,18,1992
+AR,judicial and legal,327,1264848,324,4,1260907,3941,452,1992
+AR,police protection - officers,508,1431021,508,0,1431021,0,0,1992
+AR,police protection - other,362,674181,362,1,673871,310,62,1992
+AR,corrections,2812,4883495,2812,0,4883495,0,0,1992
+AR,highways,4028,8736967,4010,39,8720023,16944,3230,1992
+AR,air transportation,0,0,0,0,0,0,0,1992
+AR,water transport and terminals,0,0,0,0,0,0,0,1992
+AR,public welfare,3602,5959910,3602,0,5959910,0,0,1992
+AR,health,3750,6995149,3745,12,6983205,11944,943,1992
+AR,hospitals,5008,9704835,4927,171,9541608,163227,14387,1992
+AR,social insurance administration,1094,2522641,952,256,2286350,236291,25181,1992
+AR,solid waste management,0,0,0,0,0,0,0,1992
+AR,sewerage,0,0,0,0,0,0,0,1992
+AR,parks and recreation,725,1097765,570,327,929251,168514,27445,1992
+AR,natural resources,2579,5150067,2219,639,4596158,553909,63705,1992
+AR,water transport and terminals,0,0,0,0,0,0,0,1992
+AR,electric power,0,0,0,0,0,0,0,1992
+AR,transit,0,0,0,0,0,0,0,1992
+AR,elem and sec school instructional,0,0,0,0,0,0,0,1992
+AR,elem and sec sch,0,0,0,0,0,0,0,1992
+AR,elem and sec admin - clerical,0,0,0,0,0,0,0,1992
+AR,elem and sec oper and maintenance,0,0,0,0,0,0,0,1992
+AR,elem and sec cafeteria,0,0,0,0,0,0,0,1992
+AR,elem and sec bus transportation,0,0,0,0,0,0,0,1992
+AR,elem and sec health and recreation,0,0,0,0,0,0,0,1992
+AR,elem and sec student employees,0,0,0,0,0,0,0,1992
+AR,elem and sec unallocable,0,0,0,0,0,0,0,1992
+AR,higher educ instructional,5216,20669411,4122,2918,17601648,3067763,193943,1992
+AR,education - higher education other,9657,15968855,7371,6225,13757213,2211642,403745,1992
+AR,education - other,2650,5628598,2497,421,5396463,232135,27199,1992
+AR,libraries,0,0,0,0,0,0,0,1992
+AR,liquor stores,0,0,0,0,0,0,0,1992
+AR,other and unallocable,1888,4152973,1850,82,4087069,65904,6768,1992
+CA,total,321860,1062204388,275841,109966,943287237,118917151,8142617,1992
+CA,financial administration,13608,37301717,12641,1740,35534842,1766875,171283,1992
+CA,other government administration,3209,10111912,3053,250,9725540,386372,24853,1992
+CA,judicial and legal,2429,10181232,2363,127,9924008,257224,11834,1992
+CA,police protection - officers,6455,20464079,6455,1,20463829,250,16,1992
+CA,police protection - other,4630,11906303,4582,99,11786412,119891,8514,1992
+CA,corrections,34870,125368001,32768,2791,116783487,8584514,372121,1992
+CA,highways,19304,65484456,18841,1319,64502887,981569,82024,1992
+CA,air transportation,0,0,0,0,0,0,0,1992
+CA,water transport and terminals,48,161827,47,15,157280,4547,246,1992
+CA,public welfare,3098,9229732,2937,316,8856976,372756,28549,1992
+CA,health,8924,29400504,8486,891,28151859,1248645,77488,1992
+CA,hospitals,35803,107781537,32104,7410,97392418,10389119,654514,1992
+CA,social insurance administration,20026,55082338,17221,3749,48707082,6375256,496505,1992
+CA,solid waste management,0,0,0,0,0,0,0,1992
+CA,sewerage,0,0,0,0,0,0,0,1992
+CA,parks and recreation,3331,7931098,1797,1704,5427886,2503212,271419,1992
+CA,natural resources,13252,40456191,12215,1744,37392020,3064171,183448,1992
+CA,water transport and terminals,0,0,0,0,0,0,0,1992
+CA,electric power,0,0,0,0,0,0,0,1992
+CA,transit,0,0,0,0,0,0,0,1992
+CA,elem and sec school instructional,0,0,0,0,0,0,0,1992
+CA,elem and sec sch,0,0,0,0,0,0,0,1992
+CA,elem and sec admin - clerical,0,0,0,0,0,0,0,1992
+CA,elem and sec oper and maintenance,0,0,0,0,0,0,0,1992
+CA,elem and sec cafeteria,0,0,0,0,0,0,0,1992
+CA,elem and sec bus transportation,0,0,0,0,0,0,0,1992
+CA,elem and sec health and recreation,0,0,0,0,0,0,0,1992
+CA,elem and sec student employees,0,0,0,0,0,0,0,1992
+CA,elem and sec unallocable,0,0,0,0,0,0,0,1992
+CA,higher educ instructional,28052,130700342,19696,21751,102631247,28069095,1478950,1992
+CA,education - higher education other,78565,236456499,56203,61623,185786573,50669926,3958190,1992
+CA,education - other,4494,13364061,4159,588,12406457,957604,59668,1992
+CA,libraries,0,0,0,0,0,0,0,1992
+CA,liquor stores,0,0,0,0,0,0,0,1992
+CA,other and unallocable,41762,150822559,40273,3848,147656434,3166125,262995,1992
+CO,total,53004,165021095,39436,32988,118931905,46089190,2401809,1992
+CO,financial administration,2004,5590181,1931,113,5387169,203012,12926,1992
+CO,other government administration,470,1338194,425,126,1204075,134119,8063,1992
+CO,judicial and legal,2670,8232097,2440,552,7555317,676780,40561,1992
+CO,police protection - officers,547,1705706,547,0,1705706,0,0,1992
+CO,police protection - other,470,1248773,470,0,1248773,0,0,1992
+CO,corrections,3448,9449233,3409,74,9338112,111121,7021,1992
+CO,highways,3055,8877355,2935,184,8541921,335434,21311,1992
+CO,air transportation,0,0,0,0,0,0,0,1992
+CO,water transport and terminals,0,0,0,0,0,0,0,1992
+CO,public welfare,1254,3653790,1195,127,3481770,172020,10450,1992
+CO,health,1229,3800023,1097,200,3475471,324552,23568,1992
+CO,hospitals,4740,11754421,4061,1010,10005881,1748540,120057,1992
+CO,social insurance administration,971,2906653,733,294,2191310,715343,42262,1992
+CO,solid waste management,0,0,0,0,0,0,0,1992
+CO,sewerage,0,0,0,0,0,0,0,1992
+CO,parks and recreation,321,726489,163,364,508044,218445,28006,1992
+CO,natural resources,1662,4948890,1376,434,4319845,629045,50713,1992
+CO,water transport and terminals,0,0,0,0,0,0,0,1992
+CO,electric power,0,0,0,0,0,0,0,1992
+CO,transit,0,0,0,0,0,0,0,1992
+CO,elem and sec school instructional,0,0,0,0,0,0,0,1992
+CO,elem and sec sch,0,0,0,0,0,0,0,1992
+CO,elem and sec admin - clerical,0,0,0,0,0,0,0,1992
+CO,elem and sec oper and maintenance,0,0,0,0,0,0,0,1992
+CO,elem and sec cafeteria,0,0,0,0,0,0,0,1992
+CO,elem and sec bus transportation,0,0,0,0,0,0,0,1992
+CO,elem and sec health and recreation,0,0,0,0,0,0,0,1992
+CO,elem and sec student employees,0,0,0,0,0,0,0,1992
+CO,elem and sec unallocable,0,0,0,0,0,0,0,1992
+CO,higher educ instructional,13474,63215499,8534,11578,35663232,27552267,874594,1992
+CO,education - higher education other,13854,30081904,7747,17258,17481507,12600397,1080893,1992
+CO,education - other,1423,3233418,1017,551,2700202,533216,71528,1992
+CO,libraries,0,0,0,0,0,0,0,1992
+CO,liquor stores,0,0,0,0,0,0,0,1992
+CO,other and unallocable,1412,4258469,1356,123,4123570,134899,9856,1992
+CT,total,54184,174566738,49312,14559,162018374,12548364,800212,1992
+CT,financial administration,2638,7618204,2466,258,7234361,383843,30532,1992
+CT,other government administration,973,3094173,832,248,2713641,380532,24635,1992
+CT,judicial and legal,3115,10094022,3079,72,9968028,125994,6209,1992
+CT,police protection - officers,973,3788336,973,1,3787129,1207,62,1992
+CT,police protection - other,536,1537372,518,29,1495338,42034,3314,1992
+CT,corrections,5418,18123039,5393,42,18046163,76876,4230,1992
+CT,highways,3691,11146128,3691,0,11146128,0,0,1992
+CT,air transportation,137,488366,137,0,488366,0,0,1992
+CT,water transport and terminals,0,0,0,0,0,0,0,1992
+CT,public welfare,4239,13015425,4139,165,12675808,339617,17668,1992
+CT,health,2100,7204619,2040,104,7003205,201414,10166,1992
+CT,hospitals,10550,33955327,9572,1686,31249101,2706226,172982,1992
+CT,social insurance administration,1219,4026183,1205,21,3997467,28716,2526,1992
+CT,solid waste management,66,238857,65,3,237157,1700,201,1992
+CT,sewerage,0,0,0,0,0,0,0,1992
+CT,parks and recreation,195,478120,140,86,409836,68284,8488,1992
+CT,natural resources,626,1983381,560,90,1880054,103327,10194,1992
+CT,water transport and terminals,0,0,0,0,0,0,0,1992
+CT,electric power,0,0,0,0,0,0,0,1992
+CT,transit,0,0,0,0,0,0,0,1992
+CT,elem and sec school instructional,0,0,0,0,0,0,0,1992
+CT,elem and sec sch,0,0,0,0,0,0,0,1992
+CT,elem and sec admin - clerical,0,0,0,0,0,0,0,1992
+CT,elem and sec oper and maintenance,0,0,0,0,0,0,0,1992
+CT,elem and sec cafeteria,0,0,0,0,0,0,0,1992
+CT,elem and sec bus transportation,0,0,0,0,0,0,0,1992
+CT,elem and sec health and recreation,0,0,0,0,0,0,0,1992
+CT,elem and sec student employees,0,0,0,0,0,0,0,1992
+CT,elem and sec unallocable,0,0,0,0,0,0,0,1992
+CT,higher educ instructional,4712,20700083,3729,3281,17138369,3561714,158013,1992
+CT,education - higher education other,7762,21319831,5714,8168,17248126,4071705,320156,1992
+CT,education - other,2676,7748538,2572,185,7467430,281108,18441,1992
+CT,libraries,0,0,0,0,0,0,0,1992
+CT,liquor stores,0,0,0,0,0,0,0,1992
+CT,other and unallocable,2558,8006734,2487,120,7832667,174067,12395,1992
+DE,total,20179,49450795,17621,6764,43406506,6044289,425248,1992
+DE,financial administration,648,1357850,630,35,1336626,21224,2940,1992
+DE,other government administration,230,543450,217,42,514066,29384,2390,1992
+DE,judicial and legal,1185,3125414,1180,20,3105054,20360,820,1992
+DE,police protection - officers,501,1797392,501,0,1797392,0,0,1992
+DE,police protection - other,234,491218,225,15,472238,18980,1402,1992
+DE,corrections,1675,3685151,1634,100,3566638,118513,6946,1992
+DE,highways,1390,2821686,1334,80,2769284,52402,9800,1992
+DE,air transportation,0,0,0,0,0,0,0,1992
+DE,water transport and terminals,0,0,0,0,0,0,0,1992
+DE,public welfare,1577,3314812,1538,78,3224346,90466,6498,1992
+DE,health,1444,3356502,1322,270,3188304,168198,20196,1992
+DE,hospitals,2179,4186690,2062,173,3987916,198774,19409,1992
+DE,social insurance administration,262,492324,261,1,490972,1352,104,1992
+DE,solid waste management,62,151208,59,4,147396,3812,448,1992
+DE,sewerage,0,0,0,0,0,0,0,1992
+DE,parks and recreation,205,320836,114,160,223260,97576,16186,1992
+DE,natural resources,464,1039052,419,99,987318,51734,7358,1992
+DE,water transport and terminals,0,0,0,0,0,0,0,1992
+DE,electric power,0,0,0,0,0,0,0,1992
+DE,transit,340,824555,320,31,792724,31831,3507,1992
+DE,elem and sec school instructional,0,0,0,0,0,0,0,1992
+DE,elem and sec sch,0,0,0,0,0,0,0,1992
+DE,elem and sec admin - clerical,0,0,0,0,0,0,0,1992
+DE,elem and sec oper and maintenance,0,0,0,0,0,0,0,1992
+DE,elem and sec cafeteria,0,0,0,0,0,0,0,1992
+DE,elem and sec bus transportation,0,0,0,0,0,0,0,1992
+DE,elem and sec health and recreation,0,0,0,0,0,0,0,1992
+DE,elem and sec student employees,0,0,0,0,0,0,0,1992
+DE,elem and sec unallocable,0,0,0,0,0,0,0,1992
+DE,higher educ instructional,2248,9186388,1364,1901,5652806,3533582,146512,1992
+DE,education - higher education other,4191,9616325,3140,3443,8081314,1535011,173652,1992
+DE,education - other,231,708604,228,3,704076,4528,316,1992
+DE,libraries,0,0,0,0,0,0,0,1992
+DE,liquor stores,0,0,0,0,0,0,0,1992
+DE,other and unallocable,1113,2431338,1073,309,2364776,66562,6764,1992
+FL,total,164498,354505178,149537,38276,329274108,25231070,2648303,1992
+FL,financial administration,7873,16586588,7736,256,16437426,149162,24382,1992
+FL,other government administration,1821,4852558,1781,246,4617873,234685,6981,1992
+FL,judicial and legal,8977,26065092,8836,180,25665431,399661,24842,1992
+FL,police protection - officers,2113,6711107,2113,1,6710888,219,14,1992
+FL,police protection - other,1678,3202030,1646,62,3142210,59820,5624,1992
+FL,corrections,29080,55225073,28771,908,54684673,540400,54706,1992
+FL,highways,10882,23564591,10394,1138,22515961,1048630,86427,1992
+FL,air transportation,0,0,0,0,0,0,0,1992
+FL,water transport and terminals,6,12400,6,0,12400,0,0,1992
+FL,public welfare,9692,13762551,9582,617,13470135,292416,19530,1992
+FL,health,12899,27627903,12063,1758,25554743,2073160,148044,1992
+FL,hospitals,15757,29980491,14184,5412,27914453,2066038,278368,1992
+FL,social insurance administration,5596,10426557,5586,22,10410783,15774,1848,1992
+FL,solid waste management,0,0,0,0,0,0,0,1992
+FL,sewerage,0,0,0,0,0,0,0,1992
+FL,parks and recreation,1041,1455733,914,185,1350685,105048,22488,1992
+FL,natural resources,6873,14837680,5927,1820,13520114,1317566,167598,1992
+FL,water transport and terminals,0,0,0,0,0,0,0,1992
+FL,electric power,0,0,0,0,0,0,0,1992
+FL,transit,424,973286,419,10,968210,5076,864,1992
+FL,elem and sec school instructional,0,0,0,0,0,0,0,1992
+FL,elem and sec sch,0,0,0,0,0,0,0,1992
+FL,elem and sec admin - clerical,0,0,0,0,0,0,0,1992
+FL,elem and sec oper and maintenance,0,0,0,0,0,0,0,1992
+FL,elem and sec cafeteria,0,0,0,0,0,0,0,1992
+FL,elem and sec bus transportation,0,0,0,0,0,0,0,1992
+FL,elem and sec health and recreation,0,0,0,0,0,0,0,1992
+FL,elem and sec student employees,0,0,0,0,0,0,0,1992
+FL,elem and sec unallocable,0,0,0,0,0,0,0,1992
+FL,higher educ instructional,13074,44291121,9817,8480,36152637,8138484,576430,1992
+FL,education - higher education other,23673,46283042,17181,16153,38172451,8110591,1148958,1992
+FL,education - other,2557,5533869,2512,192,5432606,101263,8011,1992
+FL,libraries,0,0,0,0,0,0,0,1992
+FL,liquor stores,0,0,0,0,0,0,0,1992
+FL,other and unallocable,10482,23113506,10069,836,22540429,573077,73188,1992
+GA,total,114464,233830933,103485,23590,214734902,19096031,1942877,1992
+GA,financial administration,2591,5520386,2587,8,5516072,4314,740,1992
+GA,other government administration,873,2221968,796,263,1975398,246570,13740,1992
+GA,judicial and legal,1163,3611456,1149,24,3586096,25360,2464,1992
+GA,police protection - officers,1198,3034600,1198,0,3034600,0,0,1992
+GA,police protection - other,853,1936640,851,10,1932946,3694,386,1992
+GA,corrections,14040,19634510,13934,175,19367408,267102,18756,1992
+GA,highways,6188,12536102,6187,3,12533728,2374,228,1992
+GA,air transportation,0,0,0,0,0,0,0,1992
+GA,water transport and terminals,598,1421266,588,22,1397792,23474,1749,1992
+GA,public welfare,7525,15273936,7451,133,15139656,134280,13002,1992
+GA,health,14223,24556184,13839,667,23795208,760976,67846,1992
+GA,hospitals,15172,27455988,14517,947,26122244,1333744,115929,1992
+GA,social insurance administration,1930,4552470,1797,250,4329014,223456,23572,1992
+GA,solid waste management,0,0,0,0,0,0,0,1992
+GA,sewerage,0,0,0,0,0,0,0,1992
+GA,parks and recreation,2447,3431177,1383,1520,2594186,836991,188459,1992
+GA,natural resources,4429,9662899,3964,1035,9033212,629687,82338,1992
+GA,water transport and terminals,0,0,0,0,0,0,0,1992
+GA,electric power,0,0,0,0,0,0,0,1992
+GA,transit,0,0,0,0,0,0,0,1992
+GA,elem and sec school instructional,0,0,0,0,0,0,0,1992
+GA,elem and sec sch,0,0,0,0,0,0,0,1992
+GA,elem and sec admin - clerical,0,0,0,0,0,0,0,1992
+GA,elem and sec oper and maintenance,0,0,0,0,0,0,0,1992
+GA,elem and sec cafeteria,0,0,0,0,0,0,0,1992
+GA,elem and sec bus transportation,0,0,0,0,0,0,0,1992
+GA,elem and sec health and recreation,0,0,0,0,0,0,0,1992
+GA,elem and sec student employees,0,0,0,0,0,0,0,1992
+GA,elem and sec unallocable,0,0,0,0,0,0,0,1992
+GA,higher educ instructional,11995,43603709,8599,6460,35973388,7630321,600673,1992
+GA,education - higher education other,20779,35014512,16746,10208,29004127,6010385,713833,1992
+GA,education - other,4694,11458977,4404,1394,10802147,656830,51156,1992
+GA,libraries,0,0,0,0,0,0,0,1992
+GA,liquor stores,0,0,0,0,0,0,0,1992
+GA,other and unallocable,3766,8904153,3495,471,8597680,306473,48006,1992
+HI,total,50657,130808214,46513,15273,118806998,12001216,733397,1992
+HI,financial administration,1013,2581824,1013,1,2581076,748,78,1992
+HI,other government administration,626,2052834,501,211,1515636,537198,22223,1992
+HI,judicial and legal,2159,6060786,2124,86,5927362,133424,6140,1992
+HI,police protection - officers,0,0,0,0,0,0,0,1992
+HI,police protection - other,0,0,0,0,0,0,0,1992
+HI,corrections,2026,4580604,2017,18,4558412,22192,1412,1992
+HI,highways,859,2126512,859,0,2126512,0,0,1992
+HI,air transportation,919,1936692,919,9,1936042,650,26,1992
+HI,water transport and terminals,186,452994,186,0,452994,0,0,1992
+HI,public welfare,1208,2702866,1205,7,2695376,7490,540,1992
+HI,health,3355,7692514,3313,80,7560792,131722,7404,1992
+HI,hospitals,2804,6543086,2734,140,6279744,263342,12508,1992
+HI,social insurance administration,403,1019854,396,11,999612,20242,1220,1992
+HI,solid waste management,0,0,0,0,0,0,0,1992
+HI,sewerage,0,0,0,0,0,0,0,1992
+HI,parks and recreation,223,465100,166,221,370946,94154,10080,1992
+HI,natural resources,1534,4229958,1468,309,4009986,219972,11640,1992
+HI,water transport and terminals,0,0,0,0,0,0,0,1992
+HI,electric power,0,0,0,0,0,0,0,1992
+HI,transit,0,0,0,0,0,0,0,1992
+HI,elem and sec school instructional,16234,42564418,15035,4494,39227248,3337170,212288,1992
+HI,elem and sec sch,5487,9652470,4630,3266,8336942,1315528,151742,1992
+HI,elem and sec admin - clerical,1739,4239072,1664,197,4043710,195362,13344,1992
+HI,elem and sec oper and maintenance,1843,2459204,1459,1216,1930292,528912,67896,1992
+HI,elem and sec cafeteria,1455,2238598,1321,357,2019676,218922,23770,1992
+HI,elem and sec bus transportation,0,0,0,0,0,0,0,1992
+HI,elem and sec health and recreation,38,130526,38,11,129504,1022,72,1992
+HI,elem and sec student employees,53,46800,0,238,0,46800,9360,1992
+HI,elem and sec unallocable,359,538270,148,1247,213760,324510,37300,1992
+HI,higher educ instructional,2755,12833230,2132,1922,9919948,2913282,110184,1992
+HI,education - higher education other,4309,12646462,3335,4344,9810924,2835538,172486,1992
+HI,education - other,137,360206,135,4,355382,4824,320,1992
+HI,libraries,612,1320154,577,72,1240038,80116,6186,1992
+HI,liquor stores,0,0,0,0,0,0,0,1992
+HI,other and unallocable,3808,8985650,3768,78,8902026,83624,6920,1992
+ID,total,20247,43361118,17355,8224,39294472,4066646,511349,1992
+ID,financial administration,1236,2629175,1185,93,2554833,74342,8928,1992
+ID,other government administration,177,449346,124,187,295591,153755,9317,1992
+ID,judicial and legal,363,1292817,350,17,1274087,18730,2302,1992
+ID,police protection - officers,260,725306,260,0,725306,0,0,1992
+ID,police protection - other,173,416821,167,23,406880,9941,996,1992
+ID,corrections,1140,2365776,1099,52,2308781,56995,7147,1992
+ID,highways,1767,3977083,1684,114,3865690,111393,14666,1992
+ID,air transportation,0,0,0,0,0,0,0,1992
+ID,water transport and terminals,0,0,0,0,0,0,0,1992
+ID,public welfare,1562,3243790,1461,233,3091755,152035,17936,1992
+ID,health,951,2281008,869,161,2128978,152030,14542,1992
+ID,hospitals,1013,2058070,942,145,1955613,102457,12644,1992
+ID,social insurance administration,617,1444873,505,131,1286400,158473,19809,1992
+ID,solid waste management,0,0,0,0,0,0,0,1992
+ID,sewerage,0,0,0,0,0,0,0,1992
+ID,parks and recreation,173,333703,141,57,288991,44712,5588,1992
+ID,natural resources,1660,3549846,1310,677,3051937,497909,62022,1992
+ID,water transport and terminals,0,0,0,0,0,0,0,1992
+ID,electric power,0,0,0,0,0,0,0,1992
+ID,transit,0,0,0,0,0,0,0,1992
+ID,elem and sec school instructional,0,0,0,0,0,0,0,1992
+ID,elem and sec sch,0,0,0,0,0,0,0,1992
+ID,elem and sec admin - clerical,0,0,0,0,0,0,0,1992
+ID,elem and sec oper and maintenance,0,0,0,0,0,0,0,1992
+ID,elem and sec cafeteria,0,0,0,0,0,0,0,1992
+ID,elem and sec bus transportation,0,0,0,0,0,0,0,1992
+ID,elem and sec health and recreation,0,0,0,0,0,0,0,1992
+ID,elem and sec student employees,0,0,0,0,0,0,0,1992
+ID,elem and sec unallocable,0,0,0,0,0,0,0,1992
+ID,higher educ instructional,2549,7351315,2368,641,6926290,425025,31880,1992
+ID,education - higher education other,4590,7298291,3200,4557,5648835,1649456,246012,1992
+ID,education - other,685,1436008,504,763,1179628,256380,32050,1992
+ID,libraries,0,0,0,0,0,0,0,1992
+ID,liquor stores,144,275446,98,112,210822,64624,8079,1992
+ID,other and unallocable,1187,2232444,1088,261,2094055,138389,17431,1992
+IL,total,136623,346998246,121803,42379,321828029,25170217,2512193,1992
+IL,financial administration,6655,15196396,6507,237,14977737,218659,24676,1992
+IL,other government administration,2123,5817377,1962,196,5164004,653373,28210,1992
+IL,judicial and legal,2496,10461948,2457,90,10379925,82023,6555,1992
+IL,police protection - officers,2272,8102026,2272,0,8102026,0,0,1992
+IL,police protection - other,1478,3870738,1475,5,3863332,7406,485,1992
+IL,corrections,11806,30101000,11778,33,30005196,95804,4620,1992
+IL,highways,8873,24836194,7707,1210,22711780,2124414,206506,1992
+IL,air transportation,0,0,0,0,0,0,0,1992
+IL,water transport and terminals,105,323360,103,3,320836,2524,310,1992
+IL,public welfare,12605,30518368,12600,13,30505746,12622,902,1992
+IL,health,2951,7952830,2940,13,7933188,19642,1526,1992
+IL,hospitals,20885,45039254,20580,711,44082024,957230,53964,1992
+IL,social insurance administration,3586,9180340,3251,368,8484370,695970,55600,1992
+IL,solid waste management,0,0,0,0,0,0,0,1992
+IL,sewerage,0,0,0,0,0,0,0,1992
+IL,parks and recreation,691,1706516,657,91,1629892,76624,5622,1992
+IL,natural resources,3327,9114717,3042,1130,8347311,767406,50014,1992
+IL,water transport and terminals,0,0,0,0,0,0,0,1992
+IL,electric power,0,0,0,0,0,0,0,1992
+IL,transit,0,0,0,0,0,0,0,1992
+IL,elem and sec school instructional,0,0,0,0,0,0,0,1992
+IL,elem and sec sch,0,0,0,0,0,0,0,1992
+IL,elem and sec admin - clerical,0,0,0,0,0,0,0,1992
+IL,elem and sec oper and maintenance,0,0,0,0,0,0,0,1992
+IL,elem and sec cafeteria,0,0,0,0,0,0,0,1992
+IL,elem and sec bus transportation,0,0,0,0,0,0,0,1992
+IL,elem and sec health and recreation,0,0,0,0,0,0,0,1992
+IL,elem and sec student employees,0,0,0,0,0,0,0,1992
+IL,elem and sec unallocable,0,0,0,0,0,0,0,1992
+IL,higher educ instructional,18814,62051707,15989,9964,55671335,6380372,477009,1992
+IL,education - higher education other,27704,55710357,18498,27897,43059868,12650489,1550583,1992
+IL,education - other,2926,7628090,2883,81,7551935,76155,7232,1992
+IL,libraries,0,0,0,0,0,0,0,1992
+IL,liquor stores,0,0,0,0,0,0,0,1992
+IL,other and unallocable,7326,19387028,7102,337,19037524,349504,38379,1992
+IN,total,95157,227847386,75658,39959,189626817,38220569,3435156,1992
+IN,financial administration,4367,6904314,4356,19,6887767,16547,1908,1992
+IN,other government administration,469,1508744,370,100,938744,570000,17500,1992
+IN,judicial and legal,925,3437681,796,166,3049252,388429,22435,1992
+IN,police protection - officers,1085,2826233,1085,0,2826233,0,0,1992
+IN,police protection - other,715,1290678,713,3,1288006,2672,313,1992
+IN,corrections,6470,11981866,6466,6,11974888,6978,554,1992
+IN,highways,4842,9003054,4842,1,9002478,576,53,1992
+IN,air transportation,0,0,0,0,0,0,0,1992
+IN,water transport and terminals,33,87652,33,0,87652,0,0,1992
+IN,public welfare,5372,8916334,5332,80,8845993,70341,6892,1992
+IN,health,1750,3736311,1749,4,3726375,9936,363,1992
+IN,hospitals,11690,26362300,10563,1279,24498881,1863419,199149,1992
+IN,social insurance administration,1724,3249785,1587,229,3085632,164153,22729,1992
+IN,solid waste management,0,0,0,0,0,0,0,1992
+IN,sewerage,0,0,0,0,0,0,0,1992
+IN,parks and recreation,101,166738,83,32,139918,26820,3073,1992
+IN,natural resources,2700,6195713,2217,1312,5063799,1131914,83700,1992
+IN,water transport and terminals,0,0,0,0,0,0,0,1992
+IN,electric power,0,0,0,0,0,0,0,1992
+IN,transit,0,0,0,0,0,0,0,1992
+IN,elem and sec school instructional,0,0,0,0,0,0,0,1992
+IN,elem and sec sch,0,0,0,0,0,0,0,1992
+IN,elem and sec admin - clerical,0,0,0,0,0,0,0,1992
+IN,elem and sec oper and maintenance,0,0,0,0,0,0,0,1992
+IN,elem and sec cafeteria,0,0,0,0,0,0,0,1992
+IN,elem and sec bus transportation,0,0,0,0,0,0,0,1992
+IN,elem and sec health and recreation,0,0,0,0,0,0,0,1992
+IN,elem and sec student employees,0,0,0,0,0,0,0,1992
+IN,elem and sec unallocable,0,0,0,0,0,0,0,1992
+IN,higher educ instructional,18851,58640192,9001,12557,38534732,20105460,1740503,1992
+IN,education - higher education other,26302,69680075,19544,22790,57075568,12604507,1187135,1992
+IN,education - other,4970,8257274,4142,1357,7038150,1219124,146684,1992
+IN,libraries,0,0,0,0,0,0,0,1992
+IN,liquor stores,0,0,0,0,0,0,0,1992
+IN,other and unallocable,2791,5602442,2779,24,5562749,39693,2165,1992
+IA,total,47352,136015746,39167,21251,113378380,22637366,1448707,1992
+IA,financial administration,1364,3347044,1272,124,3198388,148656,16249,1992
+IA,other government administration,533,1440877,520,25,1417497,23380,2437,1992
+IA,judicial and legal,2104,5884766,1869,334,5455832,428934,41668,1992
+IA,police protection - officers,547,2170273,547,0,2170273,0,0,1992
+IA,police protection - other,261,736107,256,5,728539,7568,709,1992
+IA,corrections,2091,5471625,2031,92,5313055,158570,10732,1992
+IA,highways,2764,6975220,2661,158,6819492,155728,18252,1992
+IA,air transportation,0,0,0,0,0,0,0,1992
+IA,water transport and terminals,0,0,0,0,0,0,0,1992
+IA,public welfare,3289,7777807,3216,106,7621144,156663,12871,1992
+IA,health,298,843328,284,19,811196,32132,2428,1992
+IA,hospitals,8508,20939916,7052,2106,17313400,3626516,257663,1992
+IA,social insurance administration,333,954053,328,7,939961,14092,908,1992
+IA,solid waste management,0,0,0,0,0,0,0,1992
+IA,sewerage,0,0,0,0,0,0,0,1992
+IA,parks and recreation,152,334239,124,47,304000,30239,4871,1992
+IA,natural resources,2866,7274463,2132,1397,5582577,1691886,129898,1992
+IA,water transport and terminals,0,0,0,0,0,0,0,1992
+IA,electric power,0,0,0,0,0,0,0,1992
+IA,transit,0,0,0,0,0,0,0,1992
+IA,elem and sec school instructional,0,0,0,0,0,0,0,1992
+IA,elem and sec sch,0,0,0,0,0,0,0,1992
+IA,elem and sec admin - clerical,0,0,0,0,0,0,0,1992
+IA,elem and sec oper and maintenance,0,0,0,0,0,0,0,1992
+IA,elem and sec cafeteria,0,0,0,0,0,0,0,1992
+IA,elem and sec bus transportation,0,0,0,0,0,0,0,1992
+IA,elem and sec health and recreation,0,0,0,0,0,0,0,1992
+IA,elem and sec student employees,0,0,0,0,0,0,0,1992
+IA,elem and sec unallocable,0,0,0,0,0,0,0,1992
+IA,higher educ instructional,5601,29346839,4147,3697,21863125,7483714,257315,1992
+IA,education - higher education other,12884,32020493,9072,12947,23556429,8464064,674679,1992
+IA,education - other,1164,3134161,1122,92,3054162,79999,7640,1992
+IA,libraries,0,0,0,0,0,0,0,1992
+IA,liquor stores,0,0,0,0,0,0,0,1992
+IA,other and unallocable,2593,7364535,2534,95,7229310,135225,10387,1992
+KS,total,47885,100810670,43185,12983,94609018,6201652,831545,1992
+KS,financial administration,1739,3550330,1722,44,3521415,28915,2948,1992
+KS,other government administration,271,700144,261,42,679384,20760,1846,1992
+KS,judicial and legal,1851,4389965,1767,252,4271623,118342,13969,1992
+KS,police protection - officers,656,1785386,656,0,1785386,0,0,1992
+KS,police protection - other,332,610911,322,26,594789,16122,1791,1992
+KS,corrections,3557,8263385,3550,17,8249629,13756,1492,1992
+KS,highways,3671,8276699,3642,43,8236677,40022,5081,1992
+KS,air transportation,0,0,0,0,0,0,0,1992
+KS,water transport and terminals,0,0,0,0,0,0,0,1992
+KS,public welfare,1699,3949134,1664,107,3865713,83421,6253,1992
+KS,health,831,2337519,828,20,2330068,7451,652,1992
+KS,hospitals,7560,14728983,7249,837,14086519,642464,54733,1992
+KS,social insurance administration,507,1071600,450,116,955392,116208,10098,1992
+KS,solid waste management,0,0,0,0,0,0,0,1992
+KS,sewerage,0,0,0,0,0,0,0,1992
+KS,parks and recreation,463,1219267,409,185,1169977,49290,9516,1992
+KS,natural resources,1982,4652447,1684,651,4085354,567093,52998,1992
+KS,water transport and terminals,0,0,0,0,0,0,0,1992
+KS,electric power,0,0,0,0,0,0,0,1992
+KS,transit,0,0,0,0,0,0,0,1992
+KS,elem and sec school instructional,0,0,0,0,0,0,0,1992
+KS,elem and sec sch,0,0,0,0,0,0,0,1992
+KS,elem and sec admin - clerical,0,0,0,0,0,0,0,1992
+KS,elem and sec oper and maintenance,0,0,0,0,0,0,0,1992
+KS,elem and sec cafeteria,0,0,0,0,0,0,0,1992
+KS,elem and sec bus transportation,0,0,0,0,0,0,0,1992
+KS,elem and sec health and recreation,0,0,0,0,0,0,0,1992
+KS,elem and sec student employees,0,0,0,0,0,0,0,1992
+KS,elem and sec unallocable,0,0,0,0,0,0,0,1992
+KS,higher educ instructional,4822,17599033,3860,2422,15739076,1859957,170119,1992
+KS,education - higher education other,15084,21383268,12434,7779,19017379,2365889,469200,1992
+KS,education - other,665,1448402,629,123,1384007,64395,6384,1992
+KS,libraries,0,0,0,0,0,0,0,1992
+KS,liquor stores,0,0,0,0,0,0,0,1992
+KS,other and unallocable,2195,4844197,2058,319,4636630,207567,24465,1992
+KY,total,76254,166307273,63189,22416,148453337,17853936,2251443,1992
+KY,financial administration,3053,5509591,2989,104,5421027,88564,10696,1992
+KY,other government administration,937,2418542,858,104,2267312,151230,12947,1992
+KY,judicial and legal,3638,7450344,3058,650,6730106,720238,96344,1992
+KY,police protection - officers,923,2539370,923,0,2539370,0,0,1992
+KY,police protection - other,778,1536882,750,32,1469162,67720,4672,1992
+KY,corrections,5093,9607904,5001,219,9388488,219416,15426,1992
+KY,highways,5752,11959366,5632,128,11855614,103752,19932,1992
+KY,air transportation,0,0,0,0,0,0,0,1992
+KY,water transport and terminals,0,0,0,0,0,0,0,1992
+KY,public welfare,4945,9588930,4693,279,9254130,334800,41738,1992
+KY,health,1722,3978475,1691,50,3939239,39236,5288,1992
+KY,hospitals,5989,11932352,5208,851,10538375,1393977,136261,1992
+KY,social insurance administration,1889,3961424,1834,61,3875010,86414,9104,1992
+KY,solid waste management,0,0,0,0,0,0,0,1992
+KY,sewerage,0,0,0,0,0,0,0,1992
+KY,parks and recreation,2242,2762112,2114,144,2608126,153986,21301,1992
+KY,natural resources,3739,7652568,3110,864,6521805,1130763,109178,1992
+KY,water transport and terminals,0,0,0,0,0,0,0,1992
+KY,electric power,0,0,0,0,0,0,0,1992
+KY,transit,0,0,0,0,0,0,0,1992
+KY,elem and sec school instructional,0,0,0,0,0,0,0,1992
+KY,elem and sec sch,0,0,0,0,0,0,0,1992
+KY,elem and sec admin - clerical,0,0,0,0,0,0,0,1992
+KY,elem and sec oper and maintenance,0,0,0,0,0,0,0,1992
+KY,elem and sec cafeteria,0,0,0,0,0,0,0,1992
+KY,elem and sec bus transportation,0,0,0,0,0,0,0,1992
+KY,elem and sec health and recreation,0,0,0,0,0,0,0,1992
+KY,elem and sec student employees,0,0,0,0,0,0,0,1992
+KY,elem and sec unallocable,0,0,0,0,0,0,0,1992
+KY,higher educ instructional,7703,30079690,6108,4573,25928830,4150860,272029,1992
+KY,education - higher education other,20410,38193993,12371,13029,29866799,8327194,1397898,1992
+KY,education - other,4189,9724442,3855,912,9198068,526374,55498,1992
+KY,libraries,0,0,0,0,0,0,0,1992
+KY,liquor stores,0,0,0,0,0,0,0,1992
+KY,other and unallocable,3252,7411288,2994,416,7051876,359412,43131,1992
+LA,total,88770,191530906,80173,22877,178534116,12996790,1521439,1992
+LA,financial administration,2545,5265112,2512,206,5226489,38623,6012,1992
+LA,other government administration,1093,2282038,898,383,1882668,399370,34520,1992
+LA,judicial and legal,1336,4228745,1304,75,4186024,42721,5333,1992
+LA,police protection - officers,678,1746521,678,0,1746521,0,0,1992
+LA,police protection - other,399,740209,395,7,736921,3288,629,1992
+LA,corrections,6617,12987543,6592,56,12964867,22676,4348,1992
+LA,highways,5622,11459686,5606,24,11443246,16440,2767,1992
+LA,air transportation,0,0,0,0,0,0,0,1992
+LA,water transport and terminals,590,929415,577,27,903064,26351,2487,1992
+LA,public welfare,5865,12681392,5861,12,12670278,11114,746,1992
+LA,health,5254,11210031,5198,137,11127874,82157,9952,1992
+LA,hospitals,18667,33527281,17743,1722,31504326,2022955,163377,1992
+LA,social insurance administration,1321,3017178,1302,48,2996460,20718,3387,1992
+LA,solid waste management,0,0,0,0,0,0,0,1992
+LA,sewerage,0,0,0,0,0,0,0,1992
+LA,parks and recreation,789,1297908,668,181,1172227,125681,21523,1992
+LA,natural resources,4773,9788511,4435,785,9368317,420194,59732,1992
+LA,water transport and terminals,0,0,0,0,0,0,0,1992
+LA,electric power,0,0,0,0,0,0,0,1992
+LA,transit,0,0,0,0,0,0,0,1992
+LA,elem and sec school instructional,0,0,0,0,0,0,0,1992
+LA,elem and sec sch,0,0,0,0,0,0,0,1992
+LA,elem and sec admin - clerical,0,0,0,0,0,0,0,1992
+LA,elem and sec oper and maintenance,0,0,0,0,0,0,0,1992
+LA,elem and sec cafeteria,0,0,0,0,0,0,0,1992
+LA,elem and sec bus transportation,0,0,0,0,0,0,0,1992
+LA,elem and sec health and recreation,0,0,0,0,0,0,0,1992
+LA,elem and sec student employees,0,0,0,0,0,0,0,1992
+LA,elem and sec unallocable,0,0,0,0,0,0,0,1992
+LA,higher educ instructional,10119,38961666,7959,5102,33333237,5628429,382501,1992
+LA,education - higher education other,17239,28395406,12901,13301,24725700,3669706,767494,1992
+LA,education - other,3687,8484779,3541,508,8230860,253919,25822,1992
+LA,libraries,0,0,0,0,0,0,0,1992
+LA,liquor stores,0,0,0,0,0,0,0,1992
+LA,other and unallocable,2176,4527485,2003,303,4315037,212448,30809,1992
+ME,total,21983,51812049,19794,7166,48266915,3545134,386154,1992
+ME,financial administration,829,1698089,826,6,1693109,4980,505,1992
+ME,other government administration,694,1851760,568,233,1525384,326376,22311,1992
+ME,judicial and legal,534,1551211,512,44,1507307,43904,3772,1992
+ME,police protection - officers,370,1143170,370,0,1143170,0,0,1992
+ME,police protection - other,217,441558,217,0,441558,0,0,1992
+ME,corrections,1251,2957018,1246,11,2944493,12525,843,1992
+ME,highways,2794,6060373,2718,123,5929208,131165,13384,1992
+ME,air transportation,20,34924,10,12,21374,13550,1594,1992
+ME,water transport and terminals,46,122862,42,5,116979,5883,620,1992
+ME,public welfare,1868,4018864,1845,46,3967105,51759,4132,1992
+ME,health,1026,2970482,1006,36,2905305,65177,3665,1992
+ME,hospitals,1876,4003754,1857,39,3962208,41546,3207,1992
+ME,social insurance administration,645,1608174,640,8,1598926,9248,868,1992
+ME,solid waste management,0,0,0,0,0,0,0,1992
+ME,sewerage,0,0,0,0,0,0,0,1992
+ME,parks and recreation,181,383242,177,9,375898,7344,532,1992
+ME,natural resources,1398,3214668,1218,374,2999507,215161,31987,1992
+ME,water transport and terminals,0,0,0,0,0,0,0,1992
+ME,electric power,0,0,0,0,0,0,0,1992
+ME,transit,0,0,0,0,0,0,0,1992
+ME,elem and sec school instructional,119,247867,103,31,220413,27454,2649,1992
+ME,elem and sec sch,57,74034,29,49,33695,40339,4558,1992
+ME,elem and sec admin - clerical,5,8707,4,5,6158,2549,259,1992
+ME,elem and sec oper and maintenance,2,2575,1,2,1382,1193,115,1992
+ME,elem and sec cafeteria,25,28022,13,23,12911,15111,2034,1992
+ME,elem and sec bus transportation,25,34730,11,19,13244,21486,2150,1992
+ME,elem and sec health and recreation,0,0,0,0,0,0,0,1992
+ME,elem and sec student employees,0,0,0,0,0,0,0,1992
+ME,elem and sec unallocable,0,0,0,0,0,0,0,1992
+ME,higher educ instructional,1239,4624575,1120,287,4306416,318159,21168,1992
+ME,education - higher education other,4412,8963468,3008,5449,7007591,1955877,248483,1992
+ME,education - other,1221,3049296,1110,363,2812964,236332,19412,1992
+ME,libraries,0,0,0,0,0,0,0,1992
+ME,liquor stores,218,371646,218,0,371646,0,0,1992
+ME,other and unallocable,968,2421014,954,41,2382659,38355,2464,1992
+MD,total,82072,223036664,72743,24786,197863157,25173507,1650872,1992
+MD,financial administration,3908,9480498,3729,244,9206481,274017,31672,1992
+MD,other government administration,1203,2938252,888,441,2311914,626338,55744,1992
+MD,judicial and legal,3685,11421824,3322,452,10789398,632426,64206,1992
+MD,police protection - officers,1587,5444073,1587,0,5444073,0,0,1992
+MD,police protection - other,689,1498583,689,0,1498583,0,0,1992
+MD,corrections,8812,22116516,8661,180,21833072,283444,26780,1992
+MD,highways,5052,12049956,5052,0,12049956,0,0,1992
+MD,air transportation,400,1015168,400,0,1015168,0,0,1992
+MD,water transport and terminals,375,1100024,375,0,1100024,0,0,1992
+MD,public welfare,7105,15139795,6452,806,14157312,982483,115430,1992
+MD,health,5533,13732885,5019,775,12725860,1007025,90878,1992
+MD,hospitals,7443,16899630,7162,506,16438067,461563,49816,1992
+MD,social insurance administration,749,1739400,555,236,1383145,356255,34423,1992
+MD,solid waste management,0,0,0,0,0,0,0,1992
+MD,sewerage,0,0,0,0,0,0,0,1992
+MD,parks and recreation,650,1434442,455,302,1178353,256089,34472,1992
+MD,natural resources,2310,5990051,2070,396,5511104,478947,42265,1992
+MD,water transport and terminals,0,0,0,0,0,0,0,1992
+MD,electric power,0,0,0,0,0,0,0,1992
+MD,transit,2697,8624166,2568,233,8346366,277800,22831,1992
+MD,elem and sec school instructional,0,0,0,0,0,0,0,1992
+MD,elem and sec sch,0,0,0,0,0,0,0,1992
+MD,elem and sec admin - clerical,0,0,0,0,0,0,0,1992
+MD,elem and sec oper and maintenance,0,0,0,0,0,0,0,1992
+MD,elem and sec cafeteria,0,0,0,0,0,0,0,1992
+MD,elem and sec bus transportation,0,0,0,0,0,0,0,1992
+MD,elem and sec health and recreation,0,0,0,0,0,0,0,1992
+MD,elem and sec student employees,0,0,0,0,0,0,0,1992
+MD,elem and sec unallocable,0,0,0,0,0,0,0,1992
+MD,higher educ instructional,7600,35231273,5578,6811,25810703,9420570,357849,1992
+MD,education - higher education other,12564,33257902,9413,11961,25027849,8230053,557735,1992
+MD,education - other,1970,5275950,1892,152,5113881,162069,13700,1992
+MD,libraries,0,0,0,0,0,0,0,1992
+MD,liquor stores,0,0,0,0,0,0,0,1992
+MD,other and unallocable,7740,18646276,6876,1291,16921848,1724428,153071,1992
+MA,total,84940,223415880,76387,25259,202020541,21395339,1441047,1992
+MA,financial administration,4191,11799925,4113,150,11599437,200488,13100,1992
+MA,other government administration,1765,4534380,1564,254,3565441,968939,33158,1992
+MA,judicial and legal,5326,14965914,5262,101,14826133,139781,10654,1992
+MA,police protection - officers,1679,6328355,1679,0,6328355,0,0,1992
+MA,police protection - other,312,763002,312,0,763002,0,0,1992
+MA,corrections,5311,14284383,5282,56,14220351,64032,4715,1992
+MA,highways,4651,13944534,4553,148,13692010,252524,17384,1992
+MA,air transportation,876,2732072,838,87,2632885,99187,6710,1992
+MA,water transport and terminals,130,423665,128,4,418399,5266,310,1992
+MA,public welfare,7338,18732740,7018,553,17847015,885725,53694,1992
+MA,health,3080,8694109,2988,175,8283771,410338,16076,1992
+MA,hospitals,17355,39061535,16060,2339,35916295,3145240,229394,1992
+MA,social insurance administration,3150,6759589,2948,331,6324718,434871,33559,1992
+MA,solid waste management,0,0,0,0,0,0,0,1992
+MA,sewerage,1130,3226043,1122,13,3200643,25400,1493,1992
+MA,parks and recreation,1296,2406977,1223,95,2286596,120381,12887,1992
+MA,natural resources,2057,5369293,1996,101,5251836,117457,10160,1992
+MA,water transport and terminals,799,2179422,793,8,2165617,13805,925,1992
+MA,electric power,0,0,0,0,0,0,0,1992
+MA,transit,0,0,0,0,0,0,0,1992
+MA,elem and sec school instructional,0,0,0,0,0,0,0,1992
+MA,elem and sec sch,0,0,0,0,0,0,0,1992
+MA,elem and sec admin - clerical,0,0,0,0,0,0,0,1992
+MA,elem and sec oper and maintenance,0,0,0,0,0,0,0,1992
+MA,elem and sec cafeteria,0,0,0,0,0,0,0,1992
+MA,elem and sec bus transportation,0,0,0,0,0,0,0,1992
+MA,elem and sec health and recreation,0,0,0,0,0,0,0,1992
+MA,elem and sec student employees,0,0,0,0,0,0,0,1992
+MA,elem and sec unallocable,0,0,0,0,0,0,0,1992
+MA,higher educ instructional,7994,29554002,5526,7489,21327753,8226249,410719,1992
+MA,education - higher education other,12700,27457937,9284,13046,21483719,5974218,568623,1992
+MA,education - other,803,2108528,773,50,2022796,85732,5149,1992
+MA,libraries,0,0,0,0,0,0,0,1992
+MA,liquor stores,0,0,0,0,0,0,0,1992
+MA,other and unallocable,2997,8089475,2925,259,7863769,225706,12337,1992
+MI,total,137853,401837099,108661,63841,340549160,61287939,5121175,1992
+MI,financial administration,2070,6400336,2018,120,6271632,128704,9364,1992
+MI,other government administration,1607,5024086,1595,196,4606938,417148,2149,1992
+MI,judicial and legal,2683,9323480,2660,47,9266653,56827,4083,1992
+MI,police protection - officers,2157,7777401,2156,1,7772289,5112,155,1992
+MI,police protection - other,948,2657971,896,157,2574198,83773,9186,1992
+MI,corrections,14965,46432929,14848,216,46049878,383051,20806,1992
+MI,highways,3875,12514389,3708,307,12121504,392885,29583,1992
+MI,air transportation,0,0,0,0,0,0,0,1992
+MI,water transport and terminals,0,0,0,0,0,0,0,1992
+MI,public welfare,12796,36413952,12585,401,35811204,602748,37324,1992
+MI,health,1896,6008896,1829,139,5889030,119866,11896,1992
+MI,hospitals,13037,41670780,11543,3038,36783235,4887545,264400,1992
+MI,social insurance administration,2633,7156412,2357,468,6532527,623885,48845,1992
+MI,solid waste management,0,0,0,0,0,0,0,1992
+MI,sewerage,0,0,0,0,0,0,0,1992
+MI,parks and recreation,807,1701575,729,270,1536734,164841,13959,1992
+MI,natural resources,3757,10628090,3421,876,10122987,505103,59373,1992
+MI,water transport and terminals,0,0,0,0,0,0,0,1992
+MI,electric power,0,0,0,0,0,0,0,1992
+MI,transit,0,0,0,0,0,0,0,1992
+MI,elem and sec school instructional,0,0,0,0,0,0,0,1992
+MI,elem and sec sch,0,0,0,0,0,0,0,1992
+MI,elem and sec admin - clerical,0,0,0,0,0,0,0,1992
+MI,elem and sec oper and maintenance,0,0,0,0,0,0,0,1992
+MI,elem and sec cafeteria,0,0,0,0,0,0,0,1992
+MI,elem and sec bus transportation,0,0,0,0,0,0,0,1992
+MI,elem and sec health and recreation,0,0,0,0,0,0,0,1992
+MI,elem and sec student employees,0,0,0,0,0,0,0,1992
+MI,elem and sec unallocable,0,0,0,0,0,0,0,1992
+MI,higher educ instructional,20792,86385931,12794,13360,59982713,26403218,1395303,1992
+MI,education - higher education other,44471,93202504,26839,41879,68439486,24763018,3095014,1992
+MI,education - other,1970,6407486,1888,212,6151778,255708,14513,1992
+MI,libraries,0,0,0,0,0,0,0,1992
+MI,liquor stores,452,1265673,449,5,1257167,8506,500,1992
+MI,other and unallocable,6937,20865208,6346,2149,19379207,1486001,104722,1992
+MN,total,67332,190888653,51499,32423,159696297,31192356,2801265,1992
+MN,financial administration,2153,6033136,2021,226,5739576,293560,23519,1992
+MN,other government administration,1027,3048521,877,240,2618401,430120,26372,1992
+MN,judicial and legal,1262,4889666,1169,141,4643952,245714,16384,1992
+MN,police protection - officers,589,2010939,584,6,1994566,16373,824,1992
+MN,police protection - other,246,639166,230,25,607778,31388,2756,1992
+MN,corrections,2455,7019018,2369,134,6810140,208878,15221,1992
+MN,highways,5110,15252930,4847,351,14691922,561008,46512,1992
+MN,air transportation,0,0,0,0,0,0,0,1992
+MN,water transport and terminals,0,0,0,0,0,0,0,1992
+MN,public welfare,1651,4538306,1481,291,4204835,333471,30166,1992
+MN,health,1978,5926333,1853,211,5617423,308910,22057,1992
+MN,hospitals,7435,19279536,5376,2765,14298222,4981314,364316,1992
+MN,social insurance administration,1302,3671150,1224,105,3486673,184477,13915,1992
+MN,solid waste management,0,0,0,0,0,0,0,1992
+MN,sewerage,0,0,0,0,0,0,0,1992
+MN,parks and recreation,555,1378287,446,198,1167249,211038,19413,1992
+MN,natural resources,3496,9317283,3002,818,8408276,909007,87460,1992
+MN,water transport and terminals,0,0,0,0,0,0,0,1992
+MN,electric power,0,0,0,0,0,0,0,1992
+MN,transit,0,0,0,0,0,0,0,1992
+MN,elem and sec school instructional,0,0,0,0,0,0,0,1992
+MN,elem and sec sch,0,0,0,0,0,0,0,1992
+MN,elem and sec admin - clerical,0,0,0,0,0,0,0,1992
+MN,elem and sec oper and maintenance,0,0,0,0,0,0,0,1992
+MN,elem and sec cafeteria,0,0,0,0,0,0,0,1992
+MN,elem and sec bus transportation,0,0,0,0,0,0,0,1992
+MN,elem and sec health and recreation,0,0,0,0,0,0,0,1992
+MN,elem and sec student employees,0,0,0,0,0,0,0,1992
+MN,elem and sec unallocable,0,0,0,0,0,0,0,1992
+MN,higher educ instructional,11386,47619920,8229,8983,38088014,9531906,558332,1992
+MN,education - higher education other,21804,45999344,13272,17379,33890066,12109278,1509652,1992
+MN,education - other,1634,4966854,1493,215,4634072,332782,24887,1992
+MN,libraries,0,0,0,0,0,0,0,1992
+MN,liquor stores,0,0,0,0,0,0,0,1992
+MN,other and unallocable,3249,9298264,3026,335,8795132,503132,39479,1992
+MS,total,47457,93588512,42576,12812,85144057,8444455,859831,1992
+MS,financial administration,1071,2213302,1071,9,2212852,450,72,1992
+MS,other government administration,407,893914,306,227,732551,161363,17750,1992
+MS,judicial and legal,469,1693988,465,17,1683463,10525,684,1992
+MS,police protection - officers,548,1269071,548,0,1269071,0,0,1992
+MS,police protection - other,365,596048,365,0,596048,0,0,1992
+MS,corrections,2965,4484543,2960,20,4477906,6637,955,1992
+MS,highways,3480,5522283,3479,4,5518486,3797,286,1992
+MS,air transportation,0,0,0,0,0,0,0,1992
+MS,water transport and terminals,59,110664,58,2,108892,1772,175,1992
+MS,public welfare,3233,5096836,3233,0,5096836,0,0,1992
+MS,health,2957,5260122,2907,72,5187553,72569,8786,1992
+MS,hospitals,7931,14531423,7583,442,13667184,864239,61719,1992
+MS,social insurance administration,1372,2770824,1076,327,2247447,523377,52403,1992
+MS,solid waste management,0,0,0,0,0,0,0,1992
+MS,sewerage,0,0,0,0,0,0,0,1992
+MS,parks and recreation,397,477914,298,202,396437,81477,17515,1992
+MS,natural resources,3980,7066386,3292,818,5980773,1085613,121555,1992
+MS,water transport and terminals,0,0,0,0,0,0,0,1992
+MS,electric power,0,0,0,0,0,0,0,1992
+MS,transit,0,0,0,0,0,0,0,1992
+MS,elem and sec school instructional,0,0,0,0,0,0,0,1992
+MS,elem and sec sch,0,0,0,0,0,0,0,1992
+MS,elem and sec admin - clerical,0,0,0,0,0,0,0,1992
+MS,elem and sec oper and maintenance,0,0,0,0,0,0,0,1992
+MS,elem and sec cafeteria,0,0,0,0,0,0,0,1992
+MS,elem and sec bus transportation,0,0,0,0,0,0,0,1992
+MS,elem and sec health and recreation,0,0,0,0,0,0,0,1992
+MS,elem and sec student employees,0,0,0,0,0,0,0,1992
+MS,elem and sec unallocable,0,0,0,0,0,0,0,1992
+MS,higher educ instructional,5259,19603336,4147,2806,16549868,3053468,196102,1992
+MS,education - higher education other,9259,15030912,7139,7714,12532545,2498367,371982,1992
+MS,education - other,1363,2763660,1345,40,2735093,28567,3273,1992
+MS,libraries,0,0,0,0,0,0,0,1992
+MS,liquor stores,125,190498,125,0,190498,0,0,1992
+MS,other and unallocable,2217,4012788,2179,112,3960554,52234,6574,1992
+MO,total,74049,153212338,68435,21989,142012756,11199582,988774,1992
+MO,financial administration,2763,4727440,2751,28,4710736,16704,2122,1992
+MO,other government administration,785,1678655,635,293,1211820,466835,25507,1992
+MO,judicial and legal,2701,6253558,2645,147,6179786,73772,10051,1992
+MO,police protection - officers,929,2785502,929,0,2785502,0,0,1992
+MO,police protection - other,996,1943366,996,0,1943366,0,0,1992
+MO,corrections,6280,10537884,6254,75,10463810,74074,4547,1992
+MO,highways,6329,13747466,6153,456,13365490,381976,31130,1992
+MO,air transportation,0,0,0,0,0,0,0,1992
+MO,water transport and terminals,0,0,0,0,0,0,0,1992
+MO,public welfare,6797,10644181,6713,184,10532010,112171,15012,1992
+MO,health,2197,4568180,2154,128,4469670,98510,7686,1992
+MO,hospitals,13076,23171295,12473,1814,21611375,1559920,106584,1992
+MO,social insurance administration,1833,3715127,1710,166,3532568,182559,21835,1992
+MO,solid waste management,0,0,0,0,0,0,0,1992
+MO,sewerage,0,0,0,0,0,0,0,1992
+MO,parks and recreation,701,1023669,523,297,855818,167851,31503,1992
+MO,natural resources,2532,5067412,2157,694,4641691,425721,66472,1992
+MO,water transport and terminals,0,0,0,0,0,0,0,1992
+MO,electric power,0,0,0,0,0,0,0,1992
+MO,transit,0,0,0,0,0,0,0,1992
+MO,elem and sec school instructional,0,0,0,0,0,0,0,1992
+MO,elem and sec sch,0,0,0,0,0,0,0,1992
+MO,elem and sec admin - clerical,0,0,0,0,0,0,0,1992
+MO,elem and sec oper and maintenance,0,0,0,0,0,0,0,1992
+MO,elem and sec cafeteria,0,0,0,0,0,0,0,1992
+MO,elem and sec bus transportation,0,0,0,0,0,0,0,1992
+MO,elem and sec health and recreation,0,0,0,0,0,0,0,1992
+MO,elem and sec student employees,0,0,0,0,0,0,0,1992
+MO,elem and sec unallocable,0,0,0,0,0,0,0,1992
+MO,higher educ instructional,7842,28609951,6620,6073,24599861,4010090,216083,1992
+MO,education - higher education other,12676,23486212,10173,11499,19928043,3558169,439044,1992
+MO,education - other,2021,4075712,2021,0,4075712,0,0,1992
+MO,libraries,0,0,0,0,0,0,0,1992
+MO,liquor stores,0,0,0,0,0,0,0,1992
+MO,other and unallocable,3591,7176728,3528,135,7105498,71230,11198,1992
+MT,total,17095,37576962,14461,9232,33256904,4320058,466435,1992
+MT,financial administration,969,1889625,875,151,1746850,142775,16480,1992
+MT,other government administration,328,773928,267,198,651145,122783,11031,1992
+MT,judicial and legal,154,542020,131,61,440400,101620,4151,1992
+MT,police protection - officers,224,538319,224,0,538319,0,0,1992
+MT,police protection - other,146,317579,141,8,308462,9117,943,1992
+MT,corrections,943,1922305,899,75,1847477,74828,7694,1992
+MT,highways,1890,4553759,1676,255,4094009,459750,37862,1992
+MT,air transportation,0,0,0,0,0,0,0,1992
+MT,water transport and terminals,0,0,0,0,0,0,0,1992
+MT,public welfare,1171,2345333,1080,146,2201954,143379,16019,1992
+MT,health,465,1068173,443,41,1024789,43384,3872,1992
+MT,hospitals,1310,2197821,1208,154,2034653,163168,18162,1992
+MT,social insurance administration,652,1268109,620,50,1219906,48203,5535,1992
+MT,solid waste management,0,0,0,0,0,0,0,1992
+MT,sewerage,0,0,0,0,0,0,0,1992
+MT,parks and recreation,71,139212,61,42,125208,14004,1851,1992
+MT,natural resources,1460,3305753,1331,273,3065593,240160,23032,1992
+MT,water transport and terminals,0,0,0,0,0,0,0,1992
+MT,electric power,0,0,0,0,0,0,0,1992
+MT,transit,0,0,0,0,0,0,0,1992
+MT,elem and sec school instructional,0,0,0,0,0,0,0,1992
+MT,elem and sec sch,0,0,0,0,0,0,0,1992
+MT,elem and sec admin - clerical,0,0,0,0,0,0,0,1992
+MT,elem and sec oper and maintenance,0,0,0,0,0,0,0,1992
+MT,elem and sec cafeteria,0,0,0,0,0,0,0,1992
+MT,elem and sec bus transportation,0,0,0,0,0,0,0,1992
+MT,elem and sec health and recreation,0,0,0,0,0,0,0,1992
+MT,elem and sec student employees,0,0,0,0,0,0,0,1992
+MT,elem and sec unallocable,0,0,0,0,0,0,0,1992
+MT,higher educ instructional,2155,7142327,1555,1403,5842532,1299795,106105,1992
+MT,education - higher education other,3418,5710315,2392,5980,4555857,1154458,181770,1992
+MT,education - other,731,1648850,617,280,1458683,190167,20352,1992
+MT,libraries,0,0,0,0,0,0,0,1992
+MT,liquor stores,103,186684,87,25,163610,23074,2841,1992
+MT,other and unallocable,905,2026850,854,90,1937457,89393,8735,1992
+NE,total,28746,59848569,25112,9433,54877111,4971458,643193,1992
+NE,financial administration,601,1411247,595,12,1401271,9976,872,1992
+NE,other government administration,358,872650,325,80,798322,74328,5995,1992
+NE,judicial and legal,636,1812289,610,52,1779790,32499,4543,1992
+NE,police protection - officers,422,1105736,422,0,1105736,0,0,1992
+NE,police protection - other,251,500155,249,3,497171,2984,385,1992
+NE,corrections,1751,3394746,1709,81,3326937,67809,7408,1992
+NE,highways,2391,5243422,2289,135,5119879,123543,17978,1992
+NE,air transportation,33,100938,33,0,100938,0,0,1992
+NE,water transport and terminals,0,0,0,0,0,0,0,1992
+NE,public welfare,2584,4762660,2459,135,4683025,79635,22038,1992
+NE,health,675,1617448,645,53,1559932,57516,5326,1992
+NE,hospitals,4184,7784055,3892,531,7161554,622501,51702,1992
+NE,social insurance administration,544,1288776,510,58,1230140,58636,6000,1992
+NE,solid waste management,0,0,0,0,0,0,0,1992
+NE,sewerage,0,0,0,0,0,0,0,1992
+NE,parks and recreation,414,629843,191,374,410331,219512,39535,1992
+NE,natural resources,1834,3276987,1480,786,2872834,404153,62625,1992
+NE,water transport and terminals,0,0,0,0,0,0,0,1992
+NE,electric power,0,0,0,0,0,0,0,1992
+NE,transit,0,0,0,0,0,0,0,1992
+NE,elem and sec school instructional,0,0,0,0,0,0,0,1992
+NE,elem and sec sch,0,0,0,0,0,0,0,1992
+NE,elem and sec admin - clerical,0,0,0,0,0,0,0,1992
+NE,elem and sec oper and maintenance,0,0,0,0,0,0,0,1992
+NE,elem and sec cafeteria,0,0,0,0,0,0,0,1992
+NE,elem and sec bus transportation,0,0,0,0,0,0,0,1992
+NE,elem and sec health and recreation,0,0,0,0,0,0,0,1992
+NE,elem and sec student employees,0,0,0,0,0,0,0,1992
+NE,elem and sec unallocable,0,0,0,0,0,0,0,1992
+NE,higher educ instructional,2855,9057200,2474,1123,8130166,927034,67535,1992
+NE,education - higher education other,7064,11870782,5204,5704,9749227,2121555,329305,1992
+NE,education - other,742,1813570,662,168,1720015,93555,14208,1992
+NE,libraries,0,0,0,0,0,0,0,1992
+NE,liquor stores,0,0,0,0,0,0,0,1992
+NE,other and unallocable,1407,3306065,1363,138,3229843,76222,7738,1992
+NV,total,19142,49782979,16935,4021,46365330,3417649,389908,1992
+NV,financial administration,871,2149726,856,25,2124429,25297,2512,1992
+NV,other government administration,401,1158691,375,80,1107056,51635,4424,1992
+NV,judicial and legal,405,1497495,400,7,1486377,11118,817,1992
+NV,police protection - officers,369,1228520,369,0,1228520,0,0,1992
+NV,police protection - other,130,317339,130,0,317339,0,0,1992
+NV,corrections,2252,6153473,2232,34,6097074,56399,3529,1992
+NV,highways,1449,4001364,1449,0,4001364,0,0,1992
+NV,air transportation,0,0,0,0,0,0,0,1992
+NV,water transport and terminals,0,0,0,0,0,0,0,1992
+NV,public welfare,1017,2528062,968,70,2461040,67022,8652,1992
+NV,health,589,1594214,564,44,1538443,55771,4541,1992
+NV,hospitals,939,2301196,903,54,2222116,79080,6286,1992
+NV,social insurance administration,1743,4471139,1677,82,4318636,152503,11732,1992
+NV,solid waste management,0,0,0,0,0,0,0,1992
+NV,sewerage,0,0,0,0,0,0,0,1992
+NV,parks and recreation,156,394348,148,13,380232,14116,1368,1992
+NV,natural resources,1104,2853363,954,280,2611258,242105,26396,1992
+NV,water transport and terminals,8,24666,8,0,24666,0,0,1992
+NV,electric power,7,24666,7,0,24666,0,0,1992
+NV,transit,0,0,0,0,0,0,0,1992
+NV,elem and sec school instructional,0,0,0,0,0,0,0,1992
+NV,elem and sec sch,0,0,0,0,0,0,0,1992
+NV,elem and sec admin - clerical,0,0,0,0,0,0,0,1992
+NV,elem and sec oper and maintenance,0,0,0,0,0,0,0,1992
+NV,elem and sec cafeteria,0,0,0,0,0,0,0,1992
+NV,elem and sec bus transportation,0,0,0,0,0,0,0,1992
+NV,elem and sec health and recreation,0,0,0,0,0,0,0,1992
+NV,elem and sec student employees,0,0,0,0,0,0,0,1992
+NV,elem and sec unallocable,0,0,0,0,0,0,0,1992
+NV,higher educ instructional,1626,5302980,1325,884,4645950,657030,53235,1992
+NV,education - higher education other,4359,8910012,2900,2350,6983754,1926258,258294,1992
+NV,education - other,266,777599,260,6,765112,12487,957,1992
+NV,libraries,0,0,0,0,0,0,0,1992
+NV,liquor stores,0,0,0,0,0,0,0,1992
+NV,other and unallocable,1451,4094126,1410,92,4027298,66828,7165,1992
+NH,total,16296,38410105,14056,7272,33956650,4453455,392443,1992
+NH,financial administration,463,977122,452,23,958972,18150,1862,1992
+NH,other government administration,262,697595,251,23,678222,19373,1772,1992
+NH,judicial and legal,755,1894882,710,86,1851492,43390,7488,1992
+NH,police protection - officers,328,930934,308,47,899710,31224,3627,1992
+NH,police protection - other,107,227435,100,12,217193,10242,1207,1992
+NH,corrections,900,2333617,893,16,2319977,13640,1249,1992
+NH,highways,1948,4127042,1885,209,3887868,239174,11070,1992
+NH,air transportation,0,0,0,0,0,0,0,1992
+NH,water transport and terminals,6,14079,5,2,13180,899,111,1992
+NH,public welfare,1114,2785444,1095,39,2744893,40551,3295,1992
+NH,health,770,1891627,731,58,1822411,69216,6483,1992
+NH,hospitals,982,2265354,977,11,2260187,5167,797,1992
+NH,social insurance administration,541,1093726,485,123,994891,98835,9319,1992
+NH,solid waste management,0,0,0,0,0,0,0,1992
+NH,sewerage,0,0,0,0,0,0,0,1992
+NH,parks and recreation,246,491283,99,261,254823,236460,25950,1992
+NH,natural resources,475,975290,393,147,864194,111096,14223,1992
+NH,water transport and terminals,0,0,0,0,0,0,0,1992
+NH,electric power,0,0,0,0,0,0,0,1992
+NH,transit,0,0,0,0,0,0,0,1992
+NH,elem and sec school instructional,0,0,0,0,0,0,0,1992
+NH,elem and sec sch,0,0,0,0,0,0,0,1992
+NH,elem and sec admin - clerical,0,0,0,0,0,0,0,1992
+NH,elem and sec oper and maintenance,0,0,0,0,0,0,0,1992
+NH,elem and sec cafeteria,0,0,0,0,0,0,0,1992
+NH,elem and sec bus transportation,0,0,0,0,0,0,0,1992
+NH,elem and sec health and recreation,0,0,0,0,0,0,0,1992
+NH,elem and sec student employees,0,0,0,0,0,0,0,1992
+NH,elem and sec unallocable,0,0,0,0,0,0,0,1992
+NH,higher educ instructional,1655,5969085,1342,1258,4690587,1278498,54745,1992
+NH,education - higher education other,3514,6842834,2358,4379,4972935,1869899,204191,1992
+NH,education - other,308,726004,302,14,712286,13718,1104,1992
+NH,libraries,0,0,0,0,0,0,0,1992
+NH,liquor stores,491,866642,315,405,645565,221077,31182,1992
+NH,other and unallocable,1431,3300110,1355,159,3167264,132846,12768,1992
+NJ,total,117026,357816008,107651,26124,336102545,21713463,1543532,1992
+NJ,financial administration,6063,16462094,5990,208,16254730,207364,11357,1992
+NJ,other government administration,1628,5489367,1618,28,5456660,32707,1587,1992
+NJ,judicial and legal,4751,18329782,4718,61,18207542,122240,5079,1992
+NJ,police protection - officers,2642,10488136,2642,1,10488010,126,9,1992
+NJ,police protection - other,1009,2361224,1002,9,2351343,9881,1142,1992
+NJ,corrections,9791,30536786,9751,71,30411130,125656,6246,1992
+NJ,highways,8272,26392409,8013,488,25953236,439173,45738,1992
+NJ,air transportation,0,0,0,0,0,0,0,1992
+NJ,water transport and terminals,112,303351,111,2,302071,1280,137,1992
+NJ,public welfare,5893,16692053,5791,200,16405452,286601,15712,1992
+NJ,health,3276,9519310,2863,650,8836455,682855,68484,1992
+NJ,hospitals,19155,45323779,18089,1829,42807768,2516011,169492,1992
+NJ,social insurance administration,2162,5620155,1881,503,4889473,730682,43572,1992
+NJ,solid waste management,938,3186701,930,36,3158807,27894,1273,1992
+NJ,sewerage,0,0,0,0,0,0,0,1992
+NJ,parks and recreation,2577,7258520,1858,1738,5770766,1487754,126247,1992
+NJ,natural resources,2086,6647122,1993,415,6230034,417088,15050,1992
+NJ,water transport and terminals,129,358644,129,0,358644,0,0,1992
+NJ,electric power,0,0,0,0,0,0,0,1992
+NJ,transit,496,1805630,489,14,1783725,21905,1229,1992
+NJ,elem and sec school instructional,3467,16194750,3446,182,16103445,94005,3620,1992
+NJ,elem and sec sch,1361,3077190,1120,1066,2701340,375850,42860,1992
+NJ,elem and sec admin - clerical,141,457880,134,15,444599,13281,1165,1992
+NJ,elem and sec oper and maintenance,922,2076300,894,68,2037371,38929,5042,1992
+NJ,elem and sec cafeteria,247,390600,56,937,92114,298486,33862,1992
+NJ,elem and sec bus transportation,19,38600,15,10,26999,11601,751,1992
+NJ,elem and sec health and recreation,21,104380,21,4,100257,4123,154,1992
+NJ,elem and sec student employees,11,9430,0,32,0,9430,1886,1992
+NJ,elem and sec unallocable,0,0,0,0,0,0,0,1992
+NJ,higher educ instructional,7524,41697195,6274,5122,36637565,5059630,206425,1992
+NJ,education - higher education other,19819,47739488,15266,12624,39247313,8492175,747277,1992
+NJ,education - other,2948,9944742,2928,56,9872753,71989,3143,1992
+NJ,libraries,0,0,0,0,0,0,0,1992
+NJ,liquor stores,0,0,0,0,0,0,0,1992
+NJ,other and unallocable,10927,32384880,10749,821,31874283,510597,27853,1992
+NM,total,42159,88128454,36348,16969,81895795,6232659,1027671,1992
+NM,financial administration,2507,5116483,2471,60,5063558,52925,6111,1992
+NM,other government administration,202,515952,196,11,503107,12845,1107,1992
+NM,judicial and legal,1670,4121111,1639,68,4063651,57460,5183,1992
+NM,police protection - officers,418,1111114,418,0,1111114,0,0,1992
+NM,police protection - other,152,243838,152,0,243838,0,0,1992
+NM,corrections,2628,5289302,2596,87,5233449,55853,5650,1992
+NM,highways,2725,5509459,2725,0,5509459,0,0,1992
+NM,air transportation,7,20063,7,0,20063,0,0,1992
+NM,water transport and terminals,0,0,0,0,0,0,0,1992
+NM,public welfare,1950,3990664,1932,33,3956555,34109,3210,1992
+NM,health,2099,4641953,2014,286,4485549,156404,15160,1992
+NM,hospitals,5363,10597946,5232,613,10348874,249072,23275,1992
+NM,social insurance administration,855,1753119,852,6,1745505,7614,578,1992
+NM,solid waste management,0,0,0,0,0,0,0,1992
+NM,sewerage,0,0,0,0,0,0,0,1992
+NM,parks and recreation,632,1184101,602,55,1132490,51611,5280,1992
+NM,natural resources,1641,3475101,1398,423,3172881,302220,43076,1992
+NM,water transport and terminals,0,0,0,0,0,0,0,1992
+NM,electric power,0,0,0,0,0,0,0,1992
+NM,transit,0,0,0,0,0,0,0,1992
+NM,elem and sec school instructional,0,0,0,0,0,0,0,1992
+NM,elem and sec sch,0,0,0,0,0,0,0,1992
+NM,elem and sec admin - clerical,0,0,0,0,0,0,0,1992
+NM,elem and sec oper and maintenance,0,0,0,0,0,0,0,1992
+NM,elem and sec cafeteria,0,0,0,0,0,0,0,1992
+NM,elem and sec bus transportation,0,0,0,0,0,0,0,1992
+NM,elem and sec health and recreation,0,0,0,0,0,0,0,1992
+NM,elem and sec student employees,0,0,0,0,0,0,0,1992
+NM,elem and sec unallocable,0,0,0,0,0,0,0,1992
+NM,higher educ instructional,4377,10556255,2952,3709,8699412,1856843,252010,1992
+NM,education - higher education other,12358,24377394,8769,11270,21195945,3181449,634811,1992
+NM,education - other,857,1857206,789,127,1744639,112567,12049,1992
+NM,libraries,0,0,0,0,0,0,0,1992
+NM,liquor stores,0,0,0,0,0,0,0,1992
+NM,other and unallocable,1718,3767393,1604,221,3665706,101687,20171,1992
+NY,total,267429,832607759,255170,35263,801945839,30661920,2038874,1992
+NY,financial administration,12020,32528515,11863,268,32176733,351782,25974,1992
+NY,other government administration,5025,14318078,4386,1107,12063976,2254102,106179,1992
+NY,judicial and legal,16414,62851379,16378,64,62762999,88380,5937,1992
+NY,police protection - officers,3975,14986216,3975,0,14986216,0,0,1992
+NY,police protection - other,1506,3700989,1441,145,3596089,104900,11327,1992
+NY,corrections,33083,106704562,32875,403,106057776,646786,34722,1992
+NY,highways,14897,41466447,14564,695,40836691,629756,58730,1992
+NY,air transportation,98,271636,93,12,260539,11097,908,1992
+NY,water transport and terminals,1008,3392627,987,25,3373336,19291,3596,1992
+NY,public welfare,7396,22321276,7053,553,21316910,1004366,56957,1992
+NY,health,9037,30480856,8718,533,29490646,990210,53055,1992
+NY,hospitals,62749,167559977,60513,3949,161961984,5597993,372285,1992
+NY,social insurance administration,13103,35024983,13049,67,34843249,181734,9365,1992
+NY,solid waste management,0,0,0,0,0,0,0,1992
+NY,sewerage,0,0,0,0,0,0,0,1992
+NY,parks and recreation,1840,5280033,1837,6,5275401,4632,487,1992
+NY,natural resources,3484,10602883,3483,5,10600823,2060,226,1992
+NY,water transport and terminals,0,0,0,0,0,0,0,1992
+NY,electric power,4238,18033300,3905,620,17064423,968877,58932,1992
+NY,transit,15530,61686391,15417,214,61514406,171985,19943,1992
+NY,elem and sec school instructional,0,0,0,0,0,0,0,1992
+NY,elem and sec sch,0,0,0,0,0,0,0,1992
+NY,elem and sec admin - clerical,0,0,0,0,0,0,0,1992
+NY,elem and sec oper and maintenance,0,0,0,0,0,0,0,1992
+NY,elem and sec cafeteria,0,0,0,0,0,0,0,1992
+NY,elem and sec bus transportation,0,0,0,0,0,0,0,1992
+NY,elem and sec health and recreation,0,0,0,0,0,0,0,1992
+NY,elem and sec student employees,0,0,0,0,0,0,0,1992
+NY,elem and sec unallocable,0,0,0,0,0,0,0,1992
+NY,higher educ instructional,16828,74737950,14484,11294,64803074,9934876,392344,1992
+NY,education - higher education other,25856,66427012,21419,14337,60161139,6265873,725954,1992
+NY,education - other,5661,17178606,5366,424,16384624,793982,48935,1992
+NY,libraries,0,0,0,0,0,0,0,1992
+NY,liquor stores,0,0,0,0,0,0,0,1992
+NY,other and unallocable,13681,43054043,13364,542,42414805,639238,53018,1992
+NC,total,109046,257506989,96832,30447,233683809,23823180,2162313,1992
+NC,financial administration,2707,6427893,2699,17,6404612,23281,1554,1992
+NC,other government administration,727,2038992,626,238,1806201,232791,17830,1992
+NC,judicial and legal,4945,12513723,4944,1,12511593,2130,137,1992
+NC,police protection - officers,2319,6308788,2319,0,6308788,0,0,1992
+NC,police protection - other,788,1643799,785,4,1638914,4885,538,1992
+NC,corrections,12367,24983935,12355,29,24959639,24296,2112,1992
+NC,highways,12084,24729268,12084,0,24729268,0,0,1992
+NC,air transportation,0,0,0,0,0,0,0,1992
+NC,water transport and terminals,329,840768,319,17,822284,18484,1806,1992
+NC,public welfare,1156,2950178,1079,236,2851181,98997,13620,1992
+NC,health,2276,5857752,2150,241,5674649,183103,22320,1992
+NC,hospitals,15534,33553848,14998,1028,32313284,1240564,94863,1992
+NC,social insurance administration,2304,5135027,2170,223,4920436,214591,23692,1992
+NC,solid waste management,126,311213,125,2,309748,1465,105,1992
+NC,sewerage,0,0,0,0,0,0,0,1992
+NC,parks and recreation,694,1314473,565,293,1166608,147865,22833,1992
+NC,natural resources,4066,9356316,3367,1226,7129077,2227239,123612,1992
+NC,water transport and terminals,0,0,0,0,0,0,0,1992
+NC,electric power,0,0,0,0,0,0,0,1992
+NC,transit,0,0,0,0,0,0,0,1992
+NC,elem and sec school instructional,0,0,0,0,0,0,0,1992
+NC,elem and sec sch,0,0,0,0,0,0,0,1992
+NC,elem and sec admin - clerical,0,0,0,0,0,0,0,1992
+NC,elem and sec oper and maintenance,0,0,0,0,0,0,0,1992
+NC,elem and sec cafeteria,0,0,0,0,0,0,0,1992
+NC,elem and sec bus transportation,0,0,0,0,0,0,0,1992
+NC,elem and sec health and recreation,0,0,0,0,0,0,0,1992
+NC,elem and sec student employees,0,0,0,0,0,0,0,1992
+NC,elem and sec unallocable,0,0,0,0,0,0,0,1992
+NC,higher educ instructional,15366,54938532,10456,9731,43481593,11456939,869225,1992
+NC,education - higher education other,23392,45906671,17983,16986,38072010,7834661,957393,1992
+NC,education - other,3041,7348551,3011,92,7292953,55598,5557,1992
+NC,libraries,0,0,0,0,0,0,0,1992
+NC,liquor stores,0,0,0,0,0,0,0,1992
+NC,other and unallocable,4825,11347262,4797,83,11290971,56291,5116,1992
+ND,total,16468,33978534,13577,8387,30295527,3683007,513494,1992
+ND,financial administration,506,932401,491,36,915060,17341,3011,1992
+ND,other government administration,105,232853,93,110,209174,23679,2274,1992
+ND,judicial and legal,328,866450,322,27,860606,5844,1110,1992
+ND,police protection - officers,123,364944,123,0,364944,0,0,1992
+ND,police protection - other,101,184913,99,3,183035,1878,280,1992
+ND,corrections,487,925712,469,33,900553,25159,3075,1992
+ND,highways,1074,2074204,962,113,1944130,130074,19888,1992
+ND,air transportation,0,0,0,0,0,0,0,1992
+ND,water transport and terminals,0,0,0,0,0,0,0,1992
+ND,public welfare,198,336163,152,70,277612,58551,8278,1992
+ND,health,1237,2442095,1154,159,2311876,130219,14916,1992
+ND,hospitals,1922,3433779,1837,318,3359396,74383,15007,1992
+ND,social insurance administration,592,1184846,558,61,1136859,47987,6162,1992
+ND,solid waste management,0,0,0,0,0,0,0,1992
+ND,sewerage,0,0,0,0,0,0,0,1992
+ND,parks and recreation,129,222218,98,64,188039,34179,5519,1992
+ND,natural resources,1410,2766766,969,750,2379815,386951,78017,1992
+ND,water transport and terminals,0,0,0,0,0,0,0,1992
+ND,electric power,0,0,0,0,0,0,0,1992
+ND,transit,0,0,0,0,0,0,0,1992
+ND,elem and sec school instructional,0,0,0,0,0,0,0,1992
+ND,elem and sec sch,0,0,0,0,0,0,0,1992
+ND,elem and sec admin - clerical,0,0,0,0,0,0,0,1992
+ND,elem and sec oper and maintenance,0,0,0,0,0,0,0,1992
+ND,elem and sec cafeteria,0,0,0,0,0,0,0,1992
+ND,elem and sec bus transportation,0,0,0,0,0,0,0,1992
+ND,elem and sec health and recreation,0,0,0,0,0,0,0,1992
+ND,elem and sec student employees,0,0,0,0,0,0,0,1992
+ND,elem and sec unallocable,0,0,0,0,0,0,0,1992
+ND,higher educ instructional,2499,8178216,1852,1783,6717837,1460379,114609,1992
+ND,education - higher education other,4291,6950879,3061,4623,5781572,1169307,217955,1992
+ND,education - other,339,641534,326,49,622763,18771,2188,1992
+ND,libraries,0,0,0,0,0,0,0,1992
+ND,liquor stores,0,0,0,0,0,0,0,1992
+ND,other and unallocable,1127,2240561,1011,188,2142256,98305,21205,1992
+OH,total,140305,352934538,116336,60445,313096083,39838455,4237607,1992
+OH,financial administration,4845,12870432,4773,125,12733981,136451,12522,1992
+OH,other government administration,996,2342943,933,136,2274128,68815,11095,1992
+OH,judicial and legal,2112,6681526,2004,321,6281623,399903,19066,1992
+OH,police protection - officers,1260,4531048,1260,0,4531048,0,0,1992
+OH,police protection - other,1029,2198701,1026,6,2193560,5141,560,1992
+OH,corrections,10794,28105551,10747,81,28014970,90581,8223,1992
+OH,highways,8903,23595437,8701,394,23248360,347077,35747,1992
+OH,air transportation,0,0,0,0,0,0,0,1992
+OH,water transport and terminals,0,0,0,0,0,0,0,1992
+OH,public welfare,2137,5808002,2060,108,5712486,95516,13481,1992
+OH,health,3482,10167821,3342,284,9990038,177783,24816,1992
+OH,hospitals,18701,46298237,16614,3125,41507801,4790436,369361,1992
+OH,social insurance administration,6393,16282072,6106,483,15777311,504761,50847,1992
+OH,solid waste management,0,0,0,0,0,0,0,1992
+OH,sewerage,0,0,0,0,0,0,0,1992
+OH,parks and recreation,778,1756816,631,271,1561470,195346,25948,1992
+OH,natural resources,3810,9018411,3434,611,8261473,756938,66780,1992
+OH,water transport and terminals,0,0,0,0,0,0,0,1992
+OH,electric power,0,0,0,0,0,0,0,1992
+OH,transit,0,0,0,0,0,0,0,1992
+OH,elem and sec school instructional,0,0,0,0,0,0,0,1992
+OH,elem and sec sch,0,0,0,0,0,0,0,1992
+OH,elem and sec admin - clerical,0,0,0,0,0,0,0,1992
+OH,elem and sec oper and maintenance,0,0,0,0,0,0,0,1992
+OH,elem and sec cafeteria,0,0,0,0,0,0,0,1992
+OH,elem and sec bus transportation,0,0,0,0,0,0,0,1992
+OH,elem and sec health and recreation,0,0,0,0,0,0,0,1992
+OH,elem and sec student employees,0,0,0,0,0,0,0,1992
+OH,elem and sec unallocable,0,0,0,0,0,0,0,1992
+OH,higher educ instructional,21190,76370377,15046,16365,60759127,15611250,1085563,1992
+OH,education - higher education other,44769,82626343,31266,36758,66865818,15760525,2387353,1992
+OH,education - other,2296,6575374,2250,146,6466014,109360,8415,1992
+OH,libraries,0,0,0,0,0,0,0,1992
+OH,liquor stores,862,1628288,629,339,1258216,370072,41265,1992
+OH,other and unallocable,5948,16077159,5514,892,15658659,418500,76565,1992
+OK,total,67071,133412533,59275,20071,121132827,12279706,1364468,1992
+OK,financial administration,1903,3816102,1893,10,3795702,20400,1740,1992
+OK,other government administration,867,1908249,846,22,1870276,37973,3635,1992
+OK,judicial and legal,1726,4680820,1687,46,4610274,70546,7038,1992
+OK,police protection - officers,991,2260930,991,0,2260930,0,0,1992
+OK,police protection - other,739,1372459,733,9,1362971,9488,1087,1992
+OK,corrections,4823,8469794,4798,31,8429519,40275,4463,1992
+OK,highways,3542,6359127,3534,10,6343707,15420,1520,1992
+OK,air transportation,0,0,0,0,0,0,0,1992
+OK,water transport and terminals,0,0,0,0,0,0,0,1992
+OK,public welfare,7944,14488514,7821,214,14307018,181496,21707,1992
+OK,health,3314,6601526,3212,181,6425044,176482,18069,1992
+OK,hospitals,8309,15057704,7888,822,14345221,712483,74818,1992
+OK,social insurance administration,1701,3491498,1561,173,3252825,238673,24745,1992
+OK,solid waste management,0,0,0,0,0,0,0,1992
+OK,sewerage,0,0,0,0,0,0,0,1992
+OK,parks and recreation,1212,1703096,974,309,1462581,240515,42157,1992
+OK,natural resources,2050,3650153,1797,734,3308939,341214,44596,1992
+OK,water transport and terminals,0,0,0,0,0,0,0,1992
+OK,electric power,472,1375318,472,1,1375138,180,16,1992
+OK,transit,0,0,0,0,0,0,0,1992
+OK,elem and sec school instructional,0,0,0,0,0,0,0,1992
+OK,elem and sec sch,0,0,0,0,0,0,0,1992
+OK,elem and sec admin - clerical,0,0,0,0,0,0,0,1992
+OK,elem and sec oper and maintenance,0,0,0,0,0,0,0,1992
+OK,elem and sec cafeteria,0,0,0,0,0,0,0,1992
+OK,elem and sec bus transportation,0,0,0,0,0,0,0,1992
+OK,elem and sec health and recreation,0,0,0,0,0,0,0,1992
+OK,elem and sec student employees,0,0,0,0,0,0,0,1992
+OK,elem and sec unallocable,0,0,0,0,0,0,0,1992
+OK,higher educ instructional,7624,25475654,5826,4786,20263694,5211960,311325,1992
+OK,education - higher education other,16009,24313942,11461,12634,19438485,4875457,796198,1992
+OK,education - other,1926,4095416,1887,46,4029938,65478,7045,1992
+OK,libraries,0,0,0,0,0,0,0,1992
+OK,liquor stores,0,0,0,0,0,0,0,1992
+OK,other and unallocable,1919,4292231,1894,43,4250565,41666,4309,1992
+OR,total,49704,130409988,42783,20446,111547369,18862619,1225992,1992
+OR,financial administration,3235,8027641,3133,243,7811417,216224,18143,1992
+OR,other government administration,677,1749457,642,73,1665539,83918,6061,1992
+OR,judicial and legal,2225,5959348,2088,289,5648579,310769,24237,1992
+OR,police protection - officers,821,3069850,821,0,3069850,0,0,1992
+OR,police protection - other,271,578042,255,16,548722,29320,2802,1992
+OR,corrections,2709,7055314,2634,130,6916604,138710,13211,1992
+OR,highways,3851,8074556,3659,280,7813556,261000,34000,1992
+OR,air transportation,0,0,0,0,0,0,0,1992
+OR,water transport and terminals,0,0,0,0,0,0,0,1992
+OR,public welfare,4439,10744205,4240,336,10238379,505826,35438,1992
+OR,health,1462,3729422,1374,139,3565960,163462,15804,1992
+OR,hospitals,6163,14713701,5158,1473,12141779,2571922,177715,1992
+OR,social insurance administration,2347,5748445,2168,223,5293687,454758,31571,1992
+OR,solid waste management,0,0,0,0,0,0,0,1992
+OR,sewerage,0,0,0,0,0,0,0,1992
+OR,parks and recreation,351,1097719,289,67,956569,141150,11036,1992
+OR,natural resources,2976,6913168,2374,847,5390648,1522520,106686,1992
+OR,water transport and terminals,0,0,0,0,0,0,0,1992
+OR,electric power,0,0,0,0,0,0,0,1992
+OR,transit,0,0,0,0,0,0,0,1992
+OR,elem and sec school instructional,0,0,0,0,0,0,0,1992
+OR,elem and sec sch,0,0,0,0,0,0,0,1992
+OR,elem and sec admin - clerical,0,0,0,0,0,0,0,1992
+OR,elem and sec oper and maintenance,0,0,0,0,0,0,0,1992
+OR,elem and sec cafeteria,0,0,0,0,0,0,0,1992
+OR,elem and sec bus transportation,0,0,0,0,0,0,0,1992
+OR,elem and sec health and recreation,0,0,0,0,0,0,0,1992
+OR,elem and sec student employees,0,0,0,0,0,0,0,1992
+OR,elem and sec unallocable,0,0,0,0,0,0,0,1992
+OR,higher educ instructional,7758,30167910,5423,6708,21087556,9080354,413307,1992
+OR,education - higher education other,6379,12612294,4673,9250,9592847,3019447,301945,1992
+OR,education - other,1148,2890145,1035,135,2694072,196073,20236,1992
+OR,libraries,0,0,0,0,0,0,0,1992
+OR,liquor stores,185,488414,179,15,477553,10861,1010,1992
+OR,other and unallocable,2707,6790357,2638,222,6634052,156305,12790,1992
+PA,total,123284,314599204,112774,32873,291624601,22974603,1810097,1992
+PA,financial administration,6036,14084287,6014,86,14040079,44208,3637,1992
+PA,other government administration,3689,9613831,3429,979,8382295,1231536,44640,1992
+PA,judicial and legal,2319,8780737,2230,121,8305616,475121,15681,1992
+PA,police protection - officers,3885,12381863,3885,0,12381863,0,0,1992
+PA,police protection - other,1403,2956442,1403,0,2956442,0,0,1992
+PA,corrections,8690,20093129,8650,82,20001316,91813,6780,1992
+PA,highways,12682,28378723,12534,237,28114512,264211,26188,1992
+PA,air transportation,97,220588,97,0,220588,0,0,1992
+PA,water transport and terminals,0,0,0,0,0,0,0,1992
+PA,public welfare,9797,23554539,9787,17,23538688,15851,1693,1992
+PA,health,2378,6374738,2365,137,6351822,22916,2103,1992
+PA,hospitals,20890,51824647,19945,2368,49490420,2334227,163549,1992
+PA,social insurance administration,3213,7356299,3205,15,7337578,18721,1358,1992
+PA,solid waste management,0,0,0,0,0,0,0,1992
+PA,sewerage,0,0,0,0,0,0,0,1992
+PA,parks and recreation,1066,2372160,867,501,2045486,326674,33036,1992
+PA,natural resources,5350,13654406,4873,919,12763874,890532,83750,1992
+PA,water transport and terminals,0,0,0,0,0,0,0,1992
+PA,electric power,0,0,0,0,0,0,0,1992
+PA,transit,0,0,0,0,0,0,0,1992
+PA,elem and sec school instructional,0,0,0,0,0,0,0,1992
+PA,elem and sec sch,0,0,0,0,0,0,0,1992
+PA,elem and sec admin - clerical,0,0,0,0,0,0,0,1992
+PA,elem and sec oper and maintenance,0,0,0,0,0,0,0,1992
+PA,elem and sec cafeteria,0,0,0,0,0,0,0,1992
+PA,elem and sec bus transportation,0,0,0,0,0,0,0,1992
+PA,elem and sec health and recreation,0,0,0,0,0,0,0,1992
+PA,elem and sec student employees,0,0,0,0,0,0,0,1992
+PA,elem and sec unallocable,0,0,0,0,0,0,0,1992
+PA,higher educ instructional,11112,46857358,9031,4615,38494601,8362757,364480,1992
+PA,education - higher education other,19196,38325301,13330,21451,30134259,8191042,1005011,1992
+PA,education - other,2661,6504610,2620,197,6425131,79479,6711,1992
+PA,libraries,0,0,0,0,0,0,0,1992
+PA,liquor stores,3026,6280366,2771,956,5751618,528748,42300,1992
+PA,other and unallocable,5794,14985180,5738,192,14888413,96767,9180,1992
+RI,total,19890,54870637,17922,6303,50482233,4388404,342938,1992
+RI,financial administration,940,2310648,930,18,2289903,20745,1517,1992
+RI,other government administration,434,1168601,432,154,1162361,6240,275,1992
+RI,judicial and legal,924,2869365,916,15,2846001,23364,1139,1992
+RI,police protection - officers,195,822552,195,0,822552,0,0,1992
+RI,police protection - other,63,165756,63,1,164906,850,35,1992
+RI,corrections,1821,5973199,1795,36,5862687,110512,4601,1992
+RI,highways,977,2382058,967,19,2367005,15053,1621,1992
+RI,air transportation,120,265939,120,0,265939,0,0,1992
+RI,water transport and terminals,0,0,0,0,0,0,0,1992
+RI,public welfare,1593,4911762,1575,27,4853873,57889,2891,1992
+RI,health,1389,4875212,1378,37,4833549,41663,2003,1992
+RI,hospitals,1447,2990135,1395,73,2882497,107638,9223,1992
+RI,social insurance administration,735,1768661,663,76,1638444,130217,11176,1992
+RI,solid waste management,0,0,0,0,0,0,0,1992
+RI,sewerage,92,234330,92,0,234330,0,0,1992
+RI,parks and recreation,164,233511,164,0,233511,0,0,1992
+RI,natural resources,665,1602231,644,50,1581820,20411,3681,1992
+RI,water transport and terminals,0,0,0,0,0,0,0,1992
+RI,electric power,0,0,0,0,0,0,0,1992
+RI,transit,498,1352904,472,47,1298981,53923,4673,1992
+RI,elem and sec school instructional,0,0,0,0,0,0,0,1992
+RI,elem and sec sch,0,0,0,0,0,0,0,1992
+RI,elem and sec admin - clerical,0,0,0,0,0,0,0,1992
+RI,elem and sec oper and maintenance,0,0,0,0,0,0,0,1992
+RI,elem and sec cafeteria,0,0,0,0,0,0,0,1992
+RI,elem and sec bus transportation,0,0,0,0,0,0,0,1992
+RI,elem and sec health and recreation,0,0,0,0,0,0,0,1992
+RI,elem and sec student employees,0,0,0,0,0,0,0,1992
+RI,elem and sec unallocable,0,0,0,0,0,0,0,1992
+RI,higher educ instructional,2646,9392966,1825,2022,6896342,2496624,145248,1992
+RI,education - higher education other,3116,5984716,2355,3238,5019900,964816,134605,1992
+RI,education - other,927,2546012,852,342,2288818,257194,11639,1992
+RI,libraries,0,0,0,0,0,0,0,1992
+RI,liquor stores,0,0,0,0,0,0,0,1992
+RI,other and unallocable,1144,3020079,1089,148,2938814,81265,8611,1992
+SC,total,77754,157742297,70399,20105,147726320,10015977,1234594,1992
+SC,financial administration,2597,5139280,2585,26,5125896,13384,2126,1992
+SC,other government administration,907,2064243,828,202,1962998,101245,13795,1992
+SC,judicial and legal,545,1617898,540,8,1607772,10126,816,1992
+SC,police protection - officers,1331,2924626,1331,1,2923548,1078,86,1992
+SC,police protection - other,442,742510,439,6,738694,3816,514,1992
+SC,corrections,7321,12895424,7306,26,12854874,40550,2786,1992
+SC,highways,5218,7835018,5204,23,7821080,13938,2480,1992
+SC,air transportation,0,0,0,0,0,0,0,1992
+SC,water transport and terminals,254,665546,250,5,661117,4429,629,1992
+SC,public welfare,4966,9229086,4932,52,9181050,48036,6120,1992
+SC,health,6695,13975076,6528,257,13599154,375922,29482,1992
+SC,hospitals,10031,15350206,9854,219,15014965,335241,31239,1992
+SC,social insurance administration,1612,3415404,1607,8,3391808,23596,824,1992
+SC,solid waste management,0,0,0,0,0,0,0,1992
+SC,sewerage,0,0,0,0,0,0,0,1992
+SC,parks and recreation,621,1037834,614,8,1029552,8282,1126,1992
+SC,natural resources,2809,6258346,2694,246,6137027,121319,19402,1992
+SC,water transport and terminals,0,0,0,0,0,0,0,1992
+SC,electric power,1736,5221117,1726,14,5204171,16946,1855,1992
+SC,transit,0,0,0,0,0,0,0,1992
+SC,elem and sec school instructional,0,0,0,0,0,0,0,1992
+SC,elem and sec sch,0,0,0,0,0,0,0,1992
+SC,elem and sec admin - clerical,0,0,0,0,0,0,0,1992
+SC,elem and sec oper and maintenance,0,0,0,0,0,0,0,1992
+SC,elem and sec cafeteria,0,0,0,0,0,0,0,1992
+SC,elem and sec bus transportation,0,0,0,0,0,0,0,1992
+SC,elem and sec health and recreation,0,0,0,0,0,0,0,1992
+SC,elem and sec student employees,0,0,0,0,0,0,0,1992
+SC,elem and sec unallocable,0,0,0,0,0,0,0,1992
+SC,higher educ instructional,11185,34187338,7846,9039,28752651,5434687,555901,1992
+SC,education - higher education other,14918,24906423,11582,9893,21499159,3407264,559570,1992
+SC,education - other,2925,6487260,2910,38,6459874,27386,2574,1992
+SC,libraries,0,0,0,0,0,0,0,1992
+SC,liquor stores,0,0,0,0,0,0,0,1992
+SC,other and unallocable,1641,3789662,1623,34,3760930,28732,3269,1992
+SD,total,13517,28511872,11925,5706,25824658,2687214,282210,1992
+SD,financial administration,446,1006230,434,16,985072,21158,1950,1992
+SD,other government administration,272,571033,255,128,527561,43472,3002,1992
+SD,judicial and legal,555,1317882,473,143,1015806,302076,14590,1992
+SD,police protection - officers,183,443094,183,0,443094,0,0,1992
+SD,police protection - other,99,174101,97,3,170464,3637,405,1992
+SD,corrections,582,1055845,559,37,1023049,32796,4021,1992
+SD,highways,1257,2658421,1204,63,2596573,61848,9443,1992
+SD,air transportation,0,0,0,0,0,0,0,1992
+SD,water transport and terminals,0,0,0,0,0,0,0,1992
+SD,public welfare,1114,1960132,945,278,1750723,209409,30033,1992
+SD,health,592,1229036,503,131,1105304,123732,15841,1992
+SD,hospitals,1533,2538053,1473,108,2436657,101396,10650,1992
+SD,social insurance administration,297,555205,286,16,539224,15981,1939,1992
+SD,solid waste management,0,0,0,0,0,0,0,1992
+SD,sewerage,0,0,0,0,0,0,0,1992
+SD,parks and recreation,139,244144,99,63,205758,38386,7096,1992
+SD,natural resources,880,1771205,756,319,1593311,177894,21910,1992
+SD,water transport and terminals,0,0,0,0,0,0,0,1992
+SD,electric power,0,0,0,0,0,0,0,1992
+SD,transit,0,0,0,0,0,0,0,1992
+SD,elem and sec school instructional,0,0,0,0,0,0,0,1992
+SD,elem and sec sch,0,0,0,0,0,0,0,1992
+SD,elem and sec admin - clerical,0,0,0,0,0,0,0,1992
+SD,elem and sec oper and maintenance,0,0,0,0,0,0,0,1992
+SD,elem and sec cafeteria,0,0,0,0,0,0,0,1992
+SD,elem and sec bus transportation,0,0,0,0,0,0,0,1992
+SD,elem and sec health and recreation,0,0,0,0,0,0,0,1992
+SD,elem and sec student employees,0,0,0,0,0,0,0,1992
+SD,elem and sec unallocable,0,0,0,0,0,0,0,1992
+SD,higher educ instructional,1641,5901131,1415,1011,5163046,738085,39926,1992
+SD,education - higher education other,2639,4351397,2020,3272,3630620,720777,109633,1992
+SD,education - other,436,844478,403,65,802304,42174,5928,1992
+SD,libraries,0,0,0,0,0,0,0,1992
+SD,liquor stores,0,0,0,0,0,0,0,1992
+SD,other and unallocable,852,1890485,820,53,1836092,54393,5843,1992
+TN,total,75930,160337272,68557,22036,147621974,12715298,1251587,1992
+TN,financial administration,2439,5269945,2417,42,5245277,24668,3629,1992
+TN,other government administration,662,1265432,592,143,1168342,97090,12216,1992
+TN,judicial and legal,1542,4647182,1521,48,4612224,34958,3615,1992
+TN,police protection - officers,937,2509134,937,0,2509134,0,0,1992
+TN,police protection - other,607,1027486,603,9,1024038,3448,642,1992
+TN,corrections,6409,11946748,6405,7,11941752,4996,642,1992
+TN,highways,4793,9028664,4793,0,9028664,0,0,1992
+TN,air transportation,0,0,0,0,0,0,0,1992
+TN,water transport and terminals,0,0,0,0,0,0,0,1992
+TN,public welfare,4699,9560354,4687,27,9542436,17918,1895,1992
+TN,health,4181,8469633,4153,82,8410525,59108,4797,1992
+TN,hospitals,10061,19935605,9806,499,19319568,616037,44769,1992
+TN,social insurance administration,1640,3323610,1421,322,3011742,311868,36364,1992
+TN,solid waste management,0,0,0,0,0,0,0,1992
+TN,sewerage,0,0,0,0,0,0,0,1992
+TN,parks and recreation,1100,1556878,1018,133,1491462,65416,13642,1992
+TN,natural resources,3576,6928100,3405,596,6662196,265904,29863,1992
+TN,water transport and terminals,0,0,0,0,0,0,0,1992
+TN,electric power,0,0,0,0,0,0,0,1992
+TN,transit,0,0,0,0,0,0,0,1992
+TN,elem and sec school instructional,0,0,0,0,0,0,0,1992
+TN,elem and sec sch,0,0,0,0,0,0,0,1992
+TN,elem and sec admin - clerical,0,0,0,0,0,0,0,1992
+TN,elem and sec oper and maintenance,0,0,0,0,0,0,0,1992
+TN,elem and sec cafeteria,0,0,0,0,0,0,0,1992
+TN,elem and sec bus transportation,0,0,0,0,0,0,0,1992
+TN,elem and sec health and recreation,0,0,0,0,0,0,0,1992
+TN,elem and sec student employees,0,0,0,0,0,0,0,1992
+TN,elem and sec unallocable,0,0,0,0,0,0,0,1992
+TN,higher educ instructional,11564,35365170,8687,7048,29600955,5764215,482469,1992
+TN,education - higher education other,17030,29833581,13459,12887,24462046,5371535,610945,1992
+TN,education - other,2009,4219883,1986,111,4164260,55623,3855,1992
+TN,libraries,0,0,0,0,0,0,0,1992
+TN,liquor stores,0,0,0,0,0,0,0,1992
+TN,other and unallocable,2681,5449867,2667,82,5427353,22514,2244,1992
+TX,total,238974,553537210,218123,77999,514090689,39446521,3693307,1992
+TX,financial administration,8365,20359259,8237,245,20119169,240090,22675,1992
+TX,other government administration,1574,3817356,1492,229,3693843,123513,14656,1992
+TX,judicial and legal,3638,11711791,3584,137,11643859,67932,9774,1992
+TX,police protection - officers,1631,4784945,1631,0,4784945,0,0,1992
+TX,police protection - other,1406,3556165,1389,34,3537612,18553,2944,1992
+TX,corrections,29397,57895047,29366,78,57834993,60054,5483,1992
+TX,highways,14339,31913491,14232,174,31765605,147886,18936,1992
+TX,air transportation,0,0,0,0,0,0,0,1992
+TX,water transport and terminals,0,0,0,0,0,0,0,1992
+TX,public welfare,15535,28411119,15460,143,28292067,119052,13295,1992
+TX,health,9919,22683216,9500,919,21375037,1308179,74227,1992
+TX,hospitals,41208,88447370,40001,1662,86329101,2118269,213628,1992
+TX,social insurance administration,6776,14147511,6659,427,13906923,240588,20785,1992
+TX,solid waste management,0,0,0,0,0,0,0,1992
+TX,sewerage,0,0,0,0,0,0,0,1992
+TX,parks and recreation,1109,1990307,824,490,1640782,349525,50378,1992
+TX,natural resources,11227,25580999,10660,20618,24935228,645771,101315,1992
+TX,water transport and terminals,0,0,0,0,0,0,0,1992
+TX,electric power,0,0,0,0,0,0,0,1992
+TX,transit,0,0,0,0,0,0,0,1992
+TX,elem and sec school instructional,0,0,0,0,0,0,0,1992
+TX,elem and sec sch,0,0,0,0,0,0,0,1992
+TX,elem and sec admin - clerical,0,0,0,0,0,0,0,1992
+TX,elem and sec oper and maintenance,0,0,0,0,0,0,0,1992
+TX,elem and sec cafeteria,0,0,0,0,0,0,0,1992
+TX,elem and sec bus transportation,0,0,0,0,0,0,0,1992
+TX,elem and sec health and recreation,0,0,0,0,0,0,0,1992
+TX,elem and sec student employees,0,0,0,0,0,0,0,1992
+TX,elem and sec unallocable,0,0,0,0,0,0,0,1992
+TX,higher educ instructional,25059,108842342,18563,16493,91703146,17139196,1150357,1992
+TX,education - higher education other,56191,101861150,45141,35697,85340476,16520674,1955996,1992
+TX,education - other,4742,10651244,4624,299,10467795,183449,20926,1992
+TX,libraries,0,0,0,0,0,0,0,1992
+TX,liquor stores,0,0,0,0,0,0,0,1992
+TX,other and unallocable,6858,16883898,6760,354,16720108,163790,17932,1992
+UT,total,39618,80955417,35803,10688,75181331,5774086,674718,1992
+UT,financial administration,1328,2761594,1300,53,2712609,48985,4994,1992
+UT,other government administration,292,562522,193,188,501306,61216,17142,1992
+UT,judicial and legal,994,2662157,939,123,2566043,96114,9813,1992
+UT,police protection - officers,363,978982,363,0,978982,0,0,1992
+UT,police protection - other,285,684575,268,50,652327,32248,3095,1992
+UT,corrections,2194,4588062,2027,369,4317227,270835,29356,1992
+UT,highways,1792,4326636,1689,131,4185808,140828,18190,1992
+UT,air transportation,0,0,0,0,0,0,0,1992
+UT,water transport and terminals,0,0,0,0,0,0,0,1992
+UT,public welfare,2556,5371976,2439,217,5141108,230868,20864,1992
+UT,health,1085,2698654,1050,85,2610919,87735,6133,1992
+UT,hospitals,4434,8179441,4318,265,8022812,156629,20561,1992
+UT,social insurance administration,653,1583926,606,188,1505420,78506,8387,1992
+UT,solid waste management,0,0,0,0,0,0,0,1992
+UT,sewerage,0,0,0,0,0,0,0,1992
+UT,parks and recreation,270,536058,211,80,469587,66471,10406,1992
+UT,natural resources,1404,3336634,1238,440,3077455,259179,29238,1992
+UT,water transport and terminals,0,0,0,0,0,0,0,1992
+UT,electric power,0,0,0,0,0,0,0,1992
+UT,transit,0,0,0,0,0,0,0,1992
+UT,elem and sec school instructional,0,0,0,0,0,0,0,1992
+UT,elem and sec sch,0,0,0,0,0,0,0,1992
+UT,elem and sec admin - clerical,0,0,0,0,0,0,0,1992
+UT,elem and sec oper and maintenance,0,0,0,0,0,0,0,1992
+UT,elem and sec cafeteria,0,0,0,0,0,0,0,1992
+UT,elem and sec bus transportation,0,0,0,0,0,0,0,1992
+UT,elem and sec health and recreation,0,0,0,0,0,0,0,1992
+UT,elem and sec student employees,0,0,0,0,0,0,0,1992
+UT,elem and sec unallocable,0,0,0,0,0,0,0,1992
+UT,higher educ instructional,4339,14693336,3685,2108,13167153,1526183,115683,1992
+UT,education - higher education other,14851,21756886,12876,5850,19326480,2430406,349629,1992
+UT,education - other,836,1862554,770,191,1748267,114287,11719,1992
+UT,libraries,0,0,0,0,0,0,0,1992
+UT,liquor stores,232,391699,193,106,347669,44030,6930,1992
+UT,other and unallocable,1710,3979725,1638,244,3850159,129566,12578,1992
+VT,total,12923,31270429,11447,3027,28775003,2495426,252148,1992
+VT,financial administration,477,1043772,468,11,1029388,14384,1430,1992
+VT,other government administration,338,733187,326,29,694747,38440,2155,1992
+VT,judicial and legal,491,1365270,426,95,1252085,113185,11223,1992
+VT,police protection - officers,314,1117856,314,1,1117624,232,18,1992
+VT,police protection - other,161,355179,143,33,316726,38453,3130,1992
+VT,corrections,697,1642872,658,58,1551051,91821,6898,1992
+VT,highways,1096,2698862,1091,7,2687630,11232,930,1992
+VT,air transportation,0,0,0,0,0,0,0,1992
+VT,water transport and terminals,0,0,0,0,0,0,0,1992
+VT,public welfare,1144,2448711,884,421,2072025,376686,45884,1992
+VT,health,465,1196141,401,87,1047457,148684,11240,1992
+VT,hospitals,554,1143489,483,86,1060699,82790,12664,1992
+VT,social insurance administration,387,900870,351,42,816957,83913,6381,1992
+VT,solid waste management,0,0,0,0,0,0,0,1992
+VT,sewerage,0,0,0,0,0,0,0,1992
+VT,parks and recreation,208,412018,203,6,401949,10069,826,1992
+VT,natural resources,652,1678840,619,46,1613410,65430,5643,1992
+VT,water transport and terminals,0,0,0,0,0,0,0,1992
+VT,electric power,0,0,0,0,0,0,0,1992
+VT,transit,0,0,0,0,0,0,0,1992
+VT,elem and sec school instructional,0,0,0,0,0,0,0,1992
+VT,elem and sec sch,0,0,0,0,0,0,0,1992
+VT,elem and sec admin - clerical,0,0,0,0,0,0,0,1992
+VT,elem and sec oper and maintenance,0,0,0,0,0,0,0,1992
+VT,elem and sec cafeteria,0,0,0,0,0,0,0,1992
+VT,elem and sec bus transportation,0,0,0,0,0,0,0,1992
+VT,elem and sec health and recreation,0,0,0,0,0,0,0,1992
+VT,elem and sec student employees,0,0,0,0,0,0,0,1992
+VT,elem and sec unallocable,0,0,0,0,0,0,0,1992
+VT,higher educ instructional,1483,5289428,1185,656,4632086,657342,49537,1992
+VT,education - higher education other,2971,5739612,2529,1247,5184378,555234,73378,1992
+VT,education - other,336,868223,314,47,829429,38794,3669,1992
+VT,libraries,0,0,0,0,0,0,0,1992
+VT,liquor stores,84,196136,70,24,181920,14216,2504,1992
+VT,other and unallocable,1065,2439963,982,131,2285442,154521,14638,1992
+VA,total,115874,257387813,98953,42795,228500778,28887035,2993707,1992
+VA,financial administration,4132,9151193,3865,530,8776928,374265,47271,1992
+VA,other government administration,665,1729662,513,299,1259486,470176,26056,1992
+VA,judicial and legal,2768,7647398,2562,481,7303022,344376,36508,1992
+VA,police protection - officers,1619,4738442,1619,0,4738442,0,0,1992
+VA,police protection - other,753,1417506,692,148,1332590,84916,10852,1992
+VA,corrections,8836,16636916,8680,271,16412718,224198,27584,1992
+VA,highways,11281,21768429,10713,1013,20667064,1101365,100581,1992
+VA,air transportation,0,0,0,0,0,0,0,1992
+VA,water transport and terminals,149,361410,149,0,361410,0,0,1992
+VA,public welfare,2415,5068212,2076,404,4642706,425506,59356,1992
+VA,health,5766,13747258,5174,1240,12651724,1095534,104626,1992
+VA,hospitals,19497,35941527,18792,1987,34689639,1251888,124970,1992
+VA,social insurance administration,1750,3727166,1419,632,3223380,503786,58738,1992
+VA,solid waste management,132,346490,115,27,314536,31954,2928,1992
+VA,sewerage,0,0,0,0,0,0,0,1992
+VA,parks and recreation,773,1369378,518,577,1047470,321908,45069,1992
+VA,natural resources,3350,7304333,2897,712,6616373,687960,80098,1992
+VA,water transport and terminals,0,0,0,0,0,0,0,1992
+VA,electric power,0,0,0,0,0,0,0,1992
+VA,transit,0,0,0,0,0,0,0,1992
+VA,elem and sec school instructional,0,0,0,0,0,0,0,1992
+VA,elem and sec sch,0,0,0,0,0,0,0,1992
+VA,elem and sec admin - clerical,0,0,0,0,0,0,0,1992
+VA,elem and sec oper and maintenance,0,0,0,0,0,0,0,1992
+VA,elem and sec cafeteria,0,0,0,0,0,0,0,1992
+VA,elem and sec bus transportation,0,0,0,0,0,0,0,1992
+VA,elem and sec health and recreation,0,0,0,0,0,0,0,1992
+VA,elem and sec student employees,0,0,0,0,0,0,0,1992
+VA,elem and sec unallocable,0,0,0,0,0,0,0,1992
+VA,higher educ instructional,15292,54653927,11261,8902,43450171,11203756,713816,1992
+VA,education - higher education other,26975,49589366,19197,23335,40264428,9324938,1376646,1992
+VA,education - other,3122,7359706,2877,681,6892518,467188,43517,1992
+VA,libraries,0,0,0,0,0,0,0,1992
+VA,liquor stores,1331,2221302,875,1009,1704976,516326,80720,1992
+VA,other and unallocable,5268,12608192,4959,547,12151197,456995,54371,1992
+WA,total,97818,245723412,79050,41318,214806522,30916890,3322081,1992
+WA,financial administration,2542,6888428,2484,112,6730874,157554,9959,1992
+WA,other government administration,1047,3208226,892,453,2715648,492578,27518,1992
+WA,judicial and legal,1414,5284076,1362,161,5161716,122360,9122,1992
+WA,police protection - officers,1022,3545852,1022,0,3545852,0,0,1992
+WA,police protection - other,876,2107266,875,1,2106298,968,104,1992
+WA,corrections,6095,15439158,5939,200,15202348,236810,27692,1992
+WA,highways,6212,19666231,6035,345,19079444,586787,31339,1992
+WA,air transportation,0,0,0,0,0,0,0,1992
+WA,water transport and terminals,0,0,0,0,0,0,0,1992
+WA,public welfare,7490,20481232,6992,632,19467594,1013638,88214,1992
+WA,health,7037,18579572,6507,845,17511634,1067938,94000,1992
+WA,hospitals,7203,16435644,6164,2037,15036166,1399478,183892,1992
+WA,social insurance administration,4254,9710360,3874,719,8382726,1327634,67194,1992
+WA,solid waste management,0,0,0,0,0,0,0,1992
+WA,sewerage,0,0,0,0,0,0,0,1992
+WA,parks and recreation,480,1198712,467,35,1171240,27472,2410,1992
+WA,natural resources,5533,13947355,4822,1279,12753533,1193822,125709,1992
+WA,water transport and terminals,0,0,0,0,0,0,0,1992
+WA,electric power,0,0,0,0,0,0,0,1992
+WA,transit,0,0,0,0,0,0,0,1992
+WA,elem and sec school instructional,0,0,0,0,0,0,0,1992
+WA,elem and sec sch,0,0,0,0,0,0,0,1992
+WA,elem and sec admin - clerical,0,0,0,0,0,0,0,1992
+WA,elem and sec oper and maintenance,0,0,0,0,0,0,0,1992
+WA,elem and sec cafeteria,0,0,0,0,0,0,0,1992
+WA,elem and sec bus transportation,0,0,0,0,0,0,0,1992
+WA,elem and sec health and recreation,0,0,0,0,0,0,0,1992
+WA,elem and sec student employees,0,0,0,0,0,0,0,1992
+WA,elem and sec unallocable,0,0,0,0,0,0,0,1992
+WA,higher educ instructional,13526,41218067,9007,11063,30748126,10469941,799991,1992
+WA,education - higher education other,25595,48323572,15618,22488,36488684,11834888,1765861,1992
+WA,education - other,1667,4343285,1558,215,4181943,161342,19275,1992
+WA,libraries,0,0,0,0,0,0,0,1992
+WA,liquor stores,928,2199574,655,464,1671390,528184,48350,1992
+WA,other and unallocable,4897,13146802,4777,269,12851306,295496,21451,1992
+WV,total,33569,64844136,30498,9748,60050322,4793814,515958,1992
+WV,financial administration,991,1648248,985,11,1639376,8872,1102,1992
+WV,other government administration,276,579972,246,184,526682,53290,5154,1992
+WV,judicial and legal,975,2040936,960,25,2022904,18032,2512,1992
+WV,police protection - officers,527,1464722,527,0,1464722,0,0,1992
+WV,police protection - other,284,379230,283,2,378750,480,96,1992
+WV,corrections,786,1152600,785,6,1149242,3358,358,1992
+WV,highways,5764,10395295,5763,1,10393827,1468,176,1992
+WV,air transportation,0,0,0,0,0,0,0,1992
+WV,water transport and terminals,0,0,0,0,0,0,0,1992
+WV,public welfare,2264,3343054,2145,169,3232648,110406,19725,1992
+WV,health,772,1178108,770,3,1175010,3098,407,1992
+WV,hospitals,2388,3379786,2320,131,3268136,111650,11826,1992
+WV,social insurance administration,856,1604982,777,95,1509342,95640,12246,1992
+WV,solid waste management,8,16322,8,0,16322,0,0,1992
+WV,sewerage,0,0,0,0,0,0,0,1992
+WV,parks and recreation,935,1032646,532,597,707682,324964,71340,1992
+WV,natural resources,1815,3755558,1694,175,3646538,109020,20489,1992
+WV,water transport and terminals,0,0,0,0,0,0,0,1992
+WV,electric power,0,0,0,0,0,0,0,1992
+WV,transit,0,0,0,0,0,0,0,1992
+WV,elem and sec school instructional,0,0,0,0,0,0,0,1992
+WV,elem and sec sch,0,0,0,0,0,0,0,1992
+WV,elem and sec admin - clerical,0,0,0,0,0,0,0,1992
+WV,elem and sec oper and maintenance,0,0,0,0,0,0,0,1992
+WV,elem and sec cafeteria,0,0,0,0,0,0,0,1992
+WV,elem and sec bus transportation,0,0,0,0,0,0,0,1992
+WV,elem and sec health and recreation,0,0,0,0,0,0,0,1992
+WV,elem and sec student employees,0,0,0,0,0,0,0,1992
+WV,elem and sec unallocable,0,0,0,0,0,0,0,1992
+WV,higher educ instructional,4133,14272385,3179,3401,11775445,2496940,158437,1992
+WV,education - higher education other,7344,11944972,6191,4594,10680661,1264311,191848,1992
+WV,education - other,1527,3184418,1454,228,3051748,132670,12170,1992
+WV,libraries,0,0,0,0,0,0,0,1992
+WV,liquor stores,55,89724,55,0,89724,0,0,1992
+WV,other and unallocable,1869,3381178,1824,126,3321563,59615,8072,1992
+WI,total,72674,210668622,56438,40095,181529220,29139402,2872380,1992
+WI,financial administration,3535,8846684,3110,755,8055698,790986,74959,1992
+WI,other government administration,990,2678947,806,290,2148794,530153,31523,1992
+WI,judicial and legal,1865,7006583,1717,262,6624509,382074,26102,1992
+WI,police protection - officers,566,1640531,565,3,1638490,2041,208,1992
+WI,police protection - other,286,717099,260,38,666321,50778,4599,1992
+WI,corrections,5422,13039309,5111,510,12379216,660093,55178,1992
+WI,highways,2114,6548554,1882,362,6143985,404569,41041,1992
+WI,air transportation,0,0,0,0,0,0,0,1992
+WI,water transport and terminals,0,0,0,0,0,0,0,1992
+WI,public welfare,1189,2786372,958,376,2347052,439320,41092,1992
+WI,health,1614,4724180,1448,315,4362857,361323,29031,1992
+WI,hospitals,8514,25628358,6496,2821,21793869,3834489,357586,1992
+WI,social insurance administration,835,2053330,760,82,1861686,191644,13284,1992
+WI,solid waste management,0,0,0,0,0,0,0,1992
+WI,sewerage,0,0,0,0,0,0,0,1992
+WI,parks and recreation,254,550321,183,172,435963,114358,12595,1992
+WI,natural resources,2690,6453790,2149,992,5576584,877206,95602,1992
+WI,water transport and terminals,0,0,0,0,0,0,0,1992
+WI,electric power,0,0,0,0,0,0,0,1992
+WI,transit,0,0,0,0,0,0,0,1992
+WI,elem and sec school instructional,0,0,0,0,0,0,0,1992
+WI,elem and sec sch,0,0,0,0,0,0,0,1992
+WI,elem and sec admin - clerical,0,0,0,0,0,0,0,1992
+WI,elem and sec oper and maintenance,0,0,0,0,0,0,0,1992
+WI,elem and sec cafeteria,0,0,0,0,0,0,0,1992
+WI,elem and sec bus transportation,0,0,0,0,0,0,0,1992
+WI,elem and sec health and recreation,0,0,0,0,0,0,0,1992
+WI,elem and sec student employees,0,0,0,0,0,0,0,1992
+WI,elem and sec unallocable,0,0,0,0,0,0,0,1992
+WI,higher educ instructional,11942,45281833,9725,7711,39745156,5536677,392428,1992
+WI,education - higher education other,24309,65009283,15444,23993,51486486,13522797,1569117,1992
+WI,education - other,1344,3749355,1185,370,3412867,336488,28297,1992
+WI,libraries,0,0,0,0,0,0,0,1992
+WI,liquor stores,0,0,0,0,0,0,0,1992
+WI,other and unallocable,5205,13954093,4639,1043,12849687,1104406,99738,1992
+WY,total,11271,22148669,9954,3200,20454419,1694250,233437,1992
+WY,financial administration,480,1057130,480,2,1055978,1152,174,1992
+WY,other government administration,98,263057,97,15,261814,1243,143,1992
+WY,judicial and legal,361,899758,340,37,852868,46890,3854,1992
+WY,police protection - officers,154,344743,154,0,344743,0,0,1992
+WY,police protection - other,94,179332,94,0,179332,0,0,1992
+WY,corrections,475,809825,474,1,808482,1343,173,1992
+WY,highways,1862,3819484,1749,186,3598520,220964,20020,1992
+WY,air transportation,0,0,0,0,0,0,0,1992
+WY,water transport and terminals,0,0,0,0,0,0,0,1992
+WY,public welfare,300,584100,300,0,584100,0,0,1992
+WY,health,512,1135705,488,40,1097347,38358,4310,1992
+WY,hospitals,1629,2605386,1560,111,2493952,111434,12206,1992
+WY,social insurance administration,381,812952,350,47,768180,44772,5426,1992
+WY,solid waste management,0,0,0,0,0,0,0,1992
+WY,sewerage,0,0,0,0,0,0,0,1992
+WY,parks and recreation,106,197966,100,10,188866,9100,1034,1992
+WY,natural resources,814,1698178,785,67,1663002,35176,5229,1992
+WY,water transport and terminals,0,0,0,0,0,0,0,1992
+WY,electric power,0,0,0,0,0,0,0,1992
+WY,transit,0,0,0,0,0,0,0,1992
+WY,elem and sec school instructional,0,0,0,0,0,0,0,1992
+WY,elem and sec sch,0,0,0,0,0,0,0,1992
+WY,elem and sec admin - clerical,0,0,0,0,0,0,0,1992
+WY,elem and sec oper and maintenance,0,0,0,0,0,0,0,1992
+WY,elem and sec cafeteria,0,0,0,0,0,0,0,1992
+WY,elem and sec bus transportation,0,0,0,0,0,0,0,1992
+WY,elem and sec health and recreation,0,0,0,0,0,0,0,1992
+WY,elem and sec student employees,0,0,0,0,0,0,0,1992
+WY,elem and sec unallocable,0,0,0,0,0,0,0,1992
+WY,higher educ instructional,996,2946649,744,672,2404750,541899,44527,1992
+WY,education - higher education other,2178,3334788,1438,1915,2733085,601703,130956,1992
+WY,education - other,152,339419,146,14,331733,7686,1017,1992
+WY,libraries,0,0,0,0,0,0,0,1992
+WY,liquor stores,35,51403,34,2,50168,1235,242,1992
+WY,other and unallocable,644,1068794,621,81,1037499,31295,4126,1992
