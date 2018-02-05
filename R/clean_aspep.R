@@ -4,13 +4,13 @@ library(stringr)
 library(xlsx)
 library(memisc)
 
-clean_files("aspep_local") 
-clean_files("aspep_state")
-clean_files("aspep_state_and_local")
+clean_files("local") 
+clean_files("state")
+clean_files("state_and_local")
 
 merge_files("local") 
-merge_files("aspep_state")
-merge_files("aspep_state_and_local")
+merge_files("state")
+merge_files("state_and_local")
 
 merge_files <- function(folder) {
   setwd("C:/Users/user/Dropbox/R_project/aspep")
@@ -30,9 +30,15 @@ merge_files <- function(folder) {
   final$part_time_pay <- as.numeric(final$part_time_pay)
   final <- as.data.frame(final)
   setwd("..")
-  readr::write_csv(final, paste0("aspep_1992_2016_", folder, ".csv"))
-  Write(codebook(final),
-        file = paste0("aspep_1992_2016_", folder, "_codebook.txt"))
+  if (folder == "state") {
+    readr::write_csv(final, paste0("aspep_1992_2016_", folder, ".csv"))
+    Write(codebook(final),
+          file = paste0("aspep_1992_2016_", folder, "_codebook.txt"))
+  } else {
+    readr::write_csv(final, paste0("aspep_1993_2016_", folder, ".csv"))
+    Write(codebook(final),
+          file = paste0("aspep_1993_2016_", folder, "_codebook.txt"))
+  }
   
 }
 
