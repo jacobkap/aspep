@@ -1,0 +1,103 @@
+2010 Public Employment and Payroll Data
+Local Governments
+United States Total
+
+Revised May 2013
+
+SOURCE: 2010 Annual Survey of Public Employment and Payroll. For information on sampling and 
+nonsampling errors and definitions, see http://www.census.gov/govs/apes/how_data_collected.html.  Data users who create 
+their own estimates from these tables should cite the U.S. Census Bureau as the source of the original data only.
+
+
+
+                                                                                                                  Total
+                                                         Full-time                   Part-time   Full-Time        March
+                                          Full-time         pay        Part-time        pay      Equivalent        Pay
+Government Function                       employees         ($)        employees        ($)      Employment        ($)
+
+Total                                    10,959,809  47,232,462,418    3,241,293  3,507,242,252  12,171,373  50,739,704,670
+Financial Administration                    214,869     950,154,203       36,211     37,653,836     226,313     987,808,039
+Other Government Administration             195,454     870,489,991      142,951     81,335,332     219,915     951,825,323
+Judicial and Legal                          235,022   1,096,910,963       32,455     44,574,069     247,197   1,141,485,032
+Police Protection Total                     805,069   4,300,514,725       94,942     90,322,264     839,664   4,390,836,989
+  Police Officers Only                      626,552   3,587,329,272       32,179     33,429,861     638,532   3,620,759,133
+  Other Police Employees                    178,517     713,185,453       62,763     56,892,403     201,132     770,077,856
+Fire Protection Total                       326,475   1,904,135,353       84,000     42,482,877     342,941   1,946,618,230
+  Firefighters Only                         300,441   1,772,632,601       78,614     37,037,247     315,205   1,809,669,848
+  Other Fire Employees                       26,034     131,502,752        5,386      5,445,630      27,736     136,948,382
+Corrections                                 255,390   1,066,063,175       14,194     19,065,798     262,396   1,085,128,973
+Highways                                    280,735   1,097,265,892       20,850     20,653,325     289,244   1,117,919,217
+Air Transportation                           42,479     205,392,407        3,112      4,385,716      44,099     209,778,123
+Water Transport and Terminals                 7,696      42,450,430          903        998,060       8,047      43,448,490
+Public Welfare                              249,964     992,127,979       38,819     54,436,419     270,732   1,046,564,398
+Health                                      229,763     966,718,270       56,455     83,981,676     254,463   1,050,699,946
+Hospitals                                   501,064   2,402,037,509      136,905    306,647,413     576,125   2,708,684,922
+Social Insurance Administration                 487       2,637,392            0              0         487       2,637,392
+Solid Waste Management                       99,291     368,648,432       14,694     13,326,711     105,887     381,975,143
+Sewerage                                    121,909     551,374,688        6,564      5,899,114     123,667     557,273,802
+Parks and Recreation                        158,316     611,563,250      204,992    154,379,312     229,623     765,942,562
+Housing and Community Development           104,946     447,962,263       11,251     13,491,065     109,817     461,453,328
+Natural Resources                            36,298     153,974,915        6,713      6,165,376      38,787     160,140,291
+Water Supply                                167,880     765,203,985       11,284     11,379,786     171,816     776,583,771
+Electric Power                               73,621     466,154,887        2,506      4,801,013      74,921     470,955,900
+Gas Supply                                   10,825      46,739,119          362        633,695      11,034      47,372,814
+Transit                                     196,048     987,422,913       16,512     29,576,115     206,348   1,016,999,028
+Education Total                           6,319,341  25,564,640,222    2,140,435  2,326,227,558   7,126,815  27,890,867,780
+Elementary & Secondary Education Total    6,073,062  24,343,058,652    1,775,987  1,930,584,378   6,779,503  26,273,643,030
+  Elem & Sec Instructional Employees      4,379,777  19,688,419,755      955,629  1,094,758,812   4,748,013  20,783,178,567
+  Elem & Sec Other Employees              1,693,285   4,654,638,897      820,358    835,825,566   2,031,490   5,490,464,463
+Higher Education Total                      246,279   1,221,581,570      364,448    395,643,180     347,312   1,617,224,750
+  Higher Ed Instructional Employees          91,232     585,570,040      201,170    277,210,108     137,722     862,780,148
+  Higher Ed Other Employees                 155,047     636,011,530      163,278    118,433,072     209,590     754,444,602
+Other Education                                   0               0            0              0           0               0
+Local Libraries                              90,082     335,270,659       97,803     91,779,145     129,929     427,049,804
+State Liquor Stores                               0               0            0              0           0               0
+All Other and Unallocable                   236,785   1,036,608,796       66,380     63,046,577     261,106   1,099,655,373
+
+
+
+
+
+                                                                                                    Full-Time       Total
+                                            Full-time      Full-time    Part-time     Part-time     Equivalent      March
+                                            employees         pay       employees        pay        Employment       Pay
+Government Function                           CV (%)         CV (%)        CV (%)       CV (%)         CV (%)       CV (%)
+
+Total                                          0.09          0.08          0.09          0.10          0.08          0.08
+Financial Administration                       0.19          0.16          0.38          0.36          0.19          0.15
+Other Government Administration                0.20          0.18          0.24          0.31          0.19          0.17
+Judicial and Legal                             0.18          0.13          0.26          0.25          0.20          0.12
+Police Protection Total                        0.16          0.14          0.25          0.24          0.16          0.14
+  Police Officers Only                         0.15          0.14          0.24          0.22          0.15          0.13
+  Other Police Employees                       0.19          0.16          0.25          0.26          0.19          0.15
+Fire Protection Total                          0.26          0.26          0.44          0.83          0.27          0.25
+  Firefighters Only                            0.25          0.25          0.41          0.80          0.26          0.25
+  Other Fire Employees                         0.37          0.34          0.89          1.07          0.41          0.33
+Corrections                                    0.27          0.18          0.49          0.44          0.28          0.18
+Highways                                       0.24          0.21          0.18          0.17          0.24          0.20
+Air Transportation                             0.34          0.25          1.61          1.29          0.37          0.25
+Water Transport and Terminals                  0.49          0.40          0.19          0.21          0.47          0.39
+Public Welfare                                 0.38          0.30          0.79          0.77          0.42          0.29
+Health                                         0.30          0.23          0.45          0.36          0.32          0.22
+Hospitals                                      0.24          0.21          0.40          0.44          0.24          0.20
+Social Insurance Administration                0.01          0.01          0.01          0.01          0.01          0.00
+Solid Waste Management                         0.26          0.21          0.45          0.38          0.27          0.21
+Sewerage                                       0.25          0.24          0.31          0.19          0.25          0.24
+Parks and Recreation                           0.25          0.26          0.41          0.36          0.29          0.22
+Housing and Community Development              0.42          0.39          0.61          0.64          0.43          0.38
+Natural Resources                              0.35          0.37          0.33          0.48          0.36          0.36
+Water Supply                                   0.25          0.26          0.22          0.24          0.25          0.25
+Electric Power                                 0.41          0.40          0.47          0.66          0.41          0.40
+Gas Supply                                     0.41          0.35          0.16          0.12          0.41          0.35
+Transit                                        0.21          0.18          0.91          0.84          0.23          0.17
+Education Total                                0.20          0.19          0.24          0.24          0.20          0.18
+Elementary & Secondary Education Total         0.19          0.19          0.20          0.20          0.19          0.17
+  Elem & Sec Instructional Employees           0.19          0.19          0.20          0.19          0.19          0.18
+  Elem & Sec Other Employees                   0.20          0.19          0.21          0.22          0.19          0.16
+Higher Education Total                         0.34          0.32          0.41          0.43          0.33          0.26
+  Higher Ed Instructional Employees            0.33          0.32          0.45          0.44          0.35          0.26
+  Higher Ed Other Employees                    0.34          0.31          0.34          0.39          0.31          0.27
+Other Education                                0.01          0.01          0.01          0.01          0.01          0.00
+Local Libraries                                0.29          0.30          0.36          0.39          0.31          0.25
+State Liquor Stores                            0.01          0.01          0.01          0.01          0.01          0.00
+All Other and Unallocable                      0.22          0.18          0.31          0.25          0.23          0.17

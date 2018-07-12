@@ -1,0 +1,28 @@
+
+,Total/Estimates Data File Record Layout
+
+,The Total/Estimates Data File (yyempest.dat for sample years; yyemptot.dat for Census years) is comprised of 84-character data records. All payroll and part-time hours in the data file are 31-day monthly equivalent values for the month of March.
+
+Description,Length,Position
+,,
+State code (states & DC in alpha sequence where '00' denotes United States),2,1-2
+"Type of summary total code
+
+0 = US Total
+1 = state and local total
+2 = state only total
+3 = local only total
+5 = county only total
+6 = municipality only total
+7 = township only total
+8 = special district only total
+9 = school district only total",1,3-3
+FILLER,14,4-17
+Data Function (Item) Codes [https://www.census.gov/govs/apes/data_function_item_codes.html],3,18-20
+Full- Time Employees,10,21-30
+Full-Time Payroll,12,31-42
+Part- Time Employees,10,43-52
+Part- Time Payroll,12,53-64
+Part- Time Hours,10,65-74
+Full- Time Equivalent Employees,10,75-84
+,,

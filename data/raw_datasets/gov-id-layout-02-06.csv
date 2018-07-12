@@ -1,0 +1,73 @@
+
+,Individual Government ID File Record Layout
+
+,The individual government ID file (yyempid.dat for sample years; yycempid.dat for Census years) is comprised of 206-character data records. The first 14 characters comprise the U.S. Census Bureau identification number.
+
+Description,Length,Position
+,,
+State code (state & DC in alpha),2,1-2
+"Type of government code
+
+0 = state
+1 = county
+2 = municipal
+3 = township
+4 = special district
+5 = school district
+6 = Federal Government",1,3-3
+County code,3,4-6
+Unit Identification Number,3,7-9
+Supplement Code,3,10-12
+Sub Code,2,13-14
+Name of Government/Political Description,64,15-78
+Census Region Code,1,79-79
+County Name,30,80-109
+FIPS State,2,110-111
+FIPS County,3,112-114
+FIPS Place (municipality and towns),5,115-119
+FIPS MSA code,4,120-123
+FIPS CMSA,2,124-125
+Population/Enrollment/Function Code,9,126-134
+Year of Population/Enrollment,2,135-136
+"School Level code
+
+01 = elementary only
+02 = secondary only
+03 = elementary and secondary
+04 = higher education only
+05 = special independent vocational
+or special education
+06 = non-operating
+07 = Education Service Agency (ESA)",2,137-138
+FILLER,7,139-145
+Sample Weight,6,146-151
+FILLER,5,152-156
+Multi-county Code,30,157-186
+FILLER,2,187-188
+"Weekly Hours Code
+1 = 39 or more
+2 = 37.5 - 38.9
+3 = 34 - 37.4
+4 = 32 - 33.9
+5 = 30 - 31.9",1,189-189
+"Full-time Pay Code
+1 = monthly
+2 = twice a month
+3 = each 2 weeks
+4 = weekly",1,190-190
+"Part-time Pay Code
+1 = monthly
+2 = twice a month
+3 = each 2 weeks
+4 = weekly",1,191-191
+Number of Months Teachers Paid,2,192-193
+Number of Months School Admin Paid,2,194-195
+Number of Months School Other Paid,2,196-197
+"(Year of Data except dependent school data)
+99 = response for 1999
+II = data imputed
+NN = No information for this unit",2,198-199
+Year of Dependent School Data,2,200-201
+FILLER,3,202-204
+Survey Form Type,2,205-206
+,,

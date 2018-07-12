@@ -1,0 +1,59 @@
+2013 Annual Survey of Public Employment & Payroll                                           
+State Government Unit and Total Quantity Response Rates (TQRR)                              
+By State                                                                                    
+                                                                                            
+                                   Total      Total                                         
+                         Unit      Employment Payroll                                       
+                         Response  Response   Response                                      
+State                    Rate      Rate       Rate                                          
+United States Total      100.0%     85.5%     84.6%     
+Alabama                  100.0%     86.1%     81.4%     
+Alaska                   100.0%     74.3%     75.0%     
+Arizona                  100.0%    100.0%     99.9%     
+Arkansas                 100.0%     82.8%     76.2%     
+California               100.0%     99.9%     99.9%     
+Colorado                 100.0%     97.4%     97.2%     
+Connecticut              100.0%     86.4%     85.0%     
+Delaware                 100.0%     81.4%     75.3%     
+Florida                  100.0%     82.1%     81.6%     
+Georgia                  100.0%     85.3%     86.2%     
+Hawaii                   100.0%    100.0%    100.0%     
+Idaho                    100.0%     96.9%     95.9%     
+Illinois                 100.0%     95.0%     93.9%     
+Indiana                  100.0%     93.5%     93.4%     
+Iowa                     100.0%     93.3%     93.8%     
+Kansas                   100.0%     80.0%     77.9%     
+Kentucky                 100.0%     80.5%     79.3%     
+Louisiana                100.0%     81.2%     82.2%     
+Maine                    100.0%     71.9%     75.1%     
+Maryland                 100.0%     72.6%     69.2%     
+Massachusetts            100.0%     85.7%     86.2%     
+Michigan                 100.0%     97.7%     96.4%     
+Minnesota                100.0%     64.1%     59.3%     
+Mississippi              100.0%     78.5%     72.5%     
+Missouri                 100.0%     67.9%     58.4%     
+Montana                  100.0%    100.0%    100.0%     
+Nebraska                 100.0%     47.6%     42.3%     
+Nevada                   100.0%     83.9%     79.5%     
+New Hampshire            100.0%     93.8%     93.8%     
+New Jersey               100.0%     77.3%     76.1%     
+New Mexico               100.0%     64.1%     54.9%     
+New York                 100.0%     90.4%     89.0%     
+North Carolina           100.0%     59.4%     66.3%     
+North Dakota             100.0%     67.2%     69.6%     
+Ohio                     100.0%     87.3%     86.9%     
+Oklahoma                 100.0%     91.1%     90.1%     
+Oregon                   100.0%     77.0%     75.2%     
+Pennsylvania             100.0%     83.2%     80.0%     
+Rhode Island             100.0%     79.3%     79.4%     
+South Carolina           100.0%     97.7%     97.4%     
+South Dakota             100.0%     99.9%     87.0%     
+Tennessee                100.0%     96.5%     96.5%     
+Texas                    100.0%     79.3%     73.0%     
+Utah                     100.0%     97.5%     97.9%     
+Vermont                  100.0%    100.0%     99.9%     
+Virginia                 100.0%     69.5%     64.3%     
+Washington               100.0%     98.3%     98.4%     
+West Virginia            100.0%     94.2%     92.5%     
+Wisconsin                100.0%     94.6%     93.3%     
+Wyoming                  100.0%     97.2%     96.5%     

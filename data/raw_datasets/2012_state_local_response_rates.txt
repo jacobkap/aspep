@@ -1,0 +1,60 @@
+2012 Census of Governments: Employment
+State and Local Government Unit and Total Quantity Response Rates (TQRR)
+By State 
+         
+                                   Total      Total     
+                         Unit      Employment Payroll     
+                         Response  Response   Response  
+State                    Rate      Rate       Rate 
+United States Total       77.7%     81.9%     82.2%     
+Alabama                   74.8%     75.6%     77.4%     
+Alaska                    76.0%     90.0%     90.2%     
+Arizona                   80.5%     82.7%     83.0%     
+Arkansas                  76.1%     77.4%     76.0%     
+California                84.5%     85.8%     86.6%     
+Colorado                  76.8%     82.1%     83.1%     
+Connecticut               77.3%     75.6%     75.8%     
+Delaware                  91.7%     98.0%     98.3%     
+D.C.                     100.0%     97.8%     97.9%     
+Florida                   68.7%     93.7%     91.1%     
+Georgia                   86.9%     85.5%     86.3%     
+Hawaii                    95.5%     99.3%     99.4%     
+Idaho                     79.6%     88.3%     87.9%     
+Illinois                  78.7%     80.4%     80.7%     
+Indiana                   83.0%     80.0%     81.0%     
+Iowa                      83.5%     83.1%     85.2%     
+Kansas                    74.9%     83.1%     84.4%     
+Kentucky                  83.2%     84.1%     84.9%     
+Louisiana                 72.9%     74.5%     75.8%     
+Maine                     84.2%     82.3%     83.9%     
+Maryland                  90.3%     76.8%     76.5%     
+Massachusetts             72.3%     67.6%     67.9%     
+Michigan                  77.4%     80.0%     78.5%     
+Minnesota                 74.6%     80.6%     80.8%     
+Mississippi               69.5%     72.3%     71.8%     
+Missouri                  79.6%     75.8%     71.9%     
+Montana                   78.3%     80.7%     81.3%     
+Nebraska                  71.4%     80.9%     80.3%     
+Nevada                    89.0%     81.7%     82.1%     
+New Hampshire             73.0%     65.5%     67.3%     
+New Jersey                75.1%     70.5%     71.1%     
+New Mexico                53.4%     84.3%     84.2%     
+New York                  82.7%     89.3%     89.9%     
+North Carolina            88.4%     85.9%     89.9%     
+North Dakota              66.2%     89.0%     90.2%     
+Ohio                      74.9%     76.7%     77.0%     
+Oklahoma                  81.4%     85.0%     85.3%     
+Oregon                    82.7%     78.2%     78.7%     
+Pennsylvania              76.6%     77.3%     77.8%     
+Rhode Island              81.4%     77.1%     77.2%     
+South Carolina            86.4%     87.8%     87.5%     
+South Dakota              69.5%     76.0%     69.3%     
+Tennessee                 85.1%     84.4%     85.9%     
+Texas                     79.6%     79.4%     79.8%     
+Utah                      81.7%     88.0%     88.7%     
+Vermont                   66.9%     71.8%     71.6%     
+Virginia                  87.0%     82.3%     79.8%     
+Washington                69.5%     69.5%     69.1%     
+West Virginia             74.6%     82.8%     83.2%     
+Wisconsin                 81.2%     79.7%     80.4%     
+Wyoming                   83.5%     90.9%     91.2%     

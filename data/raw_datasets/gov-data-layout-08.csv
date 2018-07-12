@@ -1,0 +1,33 @@
+State code (state & DC in alpha),2,2-Jan
+"Type of summary total code
+
+0 = state
+1 = county
+2 = municipal
+3 = township
+4 = special district
+5 = school district",1,3-Mar
+County code,3,6-Apr
+Unit Identification Number,3,9-Jul
+Supplement Code,3,12-Oct
+Sub Code,2,13-14
+FILLER,3,15-17
+Data Function (Item) Code [https://www.census.gov/govs/apes/data_function_item_codes.html],3,18-20
+Full-Time Employees,10,21-30
+FILLER,1,31-31
+Full-Time Employees Data Flag [https://www.census.gov/govs/apes/data_flags.html],1,32-32
+Full-Time Payroll,12,33-44
+FILLER,1,45-45
+Full-Time Payroll Data Flag [https://www.census.gov/govs/apes/data_flags.html],1,46-46
+Part-Time Employees,10,47-56
+FILLER,1,57-57
+Part-Time Employees Data Flag [https://www.census.gov/govs/apes/data_flags.html],1,58-58
+Part-Time Payroll,12,59-70
+FILLER,1,71-71
+Part-Time Payroll Data Flag [https://www.census.gov/govs/apes/data_flags.html],1,72-72
+Part-Time Hours,10,73-82
+FILLER,1,83-83
+Part-Time Hours Data Flag [https://www.census.gov/govs/apes/data_flags.html],1,84-84
+Full-Time Equivalent Employees,10,85-94
+FILLER,1,95-95
+G-30 Designation,10,96-96

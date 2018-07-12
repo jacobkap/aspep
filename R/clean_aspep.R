@@ -12,6 +12,19 @@ merge_files("local")
 merge_files("state")
 merge_files("state_and_local")
 
+save_as_zip("local", "aspep_1993_2016_local") 
+save_as_zip("state", "aspep_1992_2016_state")
+save_as_zip("state_and_local", "aspep_1993_2016_state_and_local")
+
+save_as_zip <- function(folder, file_name) {
+  setwd("C:/Users/user/Dropbox/R_project/aspep")
+  setwd(paste0("data/", folder))
+  all_files <- list.files()
+  
+  zip::zip(zipfile = paste0(file_name, ".zip"),
+           files = all_files)
+}
+
 merge_files <- function(folder) {
   setwd("C:/Users/user/Dropbox/R_project/aspep")
   setwd(paste0("data/", folder, "/clean"))
@@ -125,7 +138,7 @@ clean_files <- function(folder) {
     
     setwd("..")
     setwd("clean")
-    file_name = gsub("\\.xls", ".csv", file_name)
+    file_name <- gsub("\\.xls", ".csv", file_name)
     readr::write_csv(file, file_name)
     setwd("..")
     setwd("raw")
@@ -152,10 +165,11 @@ col_name_fix <- c("^function"                    = "government_function",
 
 job_categories <- c(
   "\\..*" = "",
-  "-" =  " - ",
-  " +" = " ",
-  "&" = "and",
-  "^correction$"                           =          "corrections",
+  "-"     =  " - ",
+  " +"    = " ",
+  "&"     = "and",
+  "[\\. \\.]+$" = "",
+  "^correction$"                            =          "corrections",
   "^elem and sec instructional$"            = "education - elementary and secondary instructional" ,
   "^elem and sec instructional employees$"  = "education - elementary and secondary instructional",
   "^elem and sec other employees$" = "education - elementary and secondary other",
@@ -185,7 +199,7 @@ job_categories <- c(
   "^other police employees$"               = "police protection - other",
   "^police protection - persons with power of arrest$"  = "police protection - officers",
   "^police with power of arrest$"          = "police protection - officers",
-  "^persons with power of arrest$"          = "police protection - officers",
+  "^persons with power of arrest$"         = "police protection - officers",
   "^fire - other$"                         = "fire protection - other",
   "^firefighters$"                         = "fire protection - firefighters",
   "^firefighters only$"                    = "fire protection - firefighters",

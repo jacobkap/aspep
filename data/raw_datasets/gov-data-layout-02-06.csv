@@ -1,0 +1,30 @@
+
+,Individual Government Data File Record Layout
+
+,The individual government data file (yyempst.dat for sample years; yycempst.dat for Census years) is comprised of 84-character data records. All payroll and part-time hours in the data file are 31-day monthly equivalent values for the month of March. The first 14 characters comprise the U.S. Census Bureau identification number.
+
+Description,Length,Position
+,,
+State code (state & DC in alpha),2,1-2
+"Type of government code
+
+0 = state
+1 = county
+2 = municipal
+3 = township
+4 = special district
+5 = school district
+6 = Federal Government",1,3-3
+County code,3,4-6
+Unit Identification Number,3,7-9
+Supplement Code,3,10-12
+Sub Code,2,13-14
+FILLER,3,15-17
+Data Function (Item) Code [https://www.census.gov/govs/apes/data_function_item_codes.html],3,18-20
+Full-Time Employees,10,21-30
+Full-Time Payroll,12,31-42
+Part-Time Employees,10,43-52
+Part-Time Payroll,12,53-64
+Part-Time Hours,10,65-74
+Full-Time Equivalent Employees,10,75-84
+,,

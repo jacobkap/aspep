@@ -1,0 +1,376 @@
+000           FEDERAL GOVERNMENT                                                                                       
+001           UNITED STATES                                                    STATE\LOCAL TOTAL     
+002           UNITED STATES                                                    STATE TOTAL           
+003           UNITED STATES                                                    LOCAL TOTAL           
+005           UNITED STATES                                                    COUNTY TOTAL          
+006           UNITED STATES                                                    CITY TOTAL            
+007           UNITED STATES                                                    TOWN TOTAL            
+008           UNITED STATES                                                    SPECIAL DISTRICT TOTAL
+009           UNITED STATES                                                    SCHOOL TOTAL          
+011           ALABAMA                                                          STATE\LOCAL TOTAL     
+012           ALABAMA                                                          STATE TOTAL           
+013           ALABAMA                                                          LOCAL TOTAL           
+015           ALABAMA                                                          COUNTY TOTAL          
+016           ALABAMA                                                          CITY TOTAL            
+018           ALABAMA                                                          SPECIAL DISTRICT TOTAL
+019           ALABAMA                                                          SCHOOL TOTAL          
+021           ALASKA                                                           STATE\LOCAL TOTAL     
+022           ALASKA                                                           STATE TOTAL           
+023           ALASKA                                                           LOCAL TOTAL           
+025           ALASKA                                                           COUNTY TOTAL          
+026           ALASKA                                                           CITY TOTAL            
+028           ALASKA                                                           SPECIAL DISTRICT TOTAL
+031           ARIZONA                                                          STATE\LOCAL TOTAL     
+032           ARIZONA                                                          STATE TOTAL           
+033           ARIZONA                                                          LOCAL TOTAL           
+035           ARIZONA                                                          COUNTY TOTAL          
+036           ARIZONA                                                          CITY TOTAL            
+038           ARIZONA                                                          SPECIAL DISTRICT TOTAL
+039           ARIZONA                                                          SCHOOL TOTAL          
+041           ARKANSAS                                                         STATE\LOCAL TOTAL     
+042           ARKANSAS                                                         STATE TOTAL           
+043           ARKANSAS                                                         LOCAL TOTAL           
+045           ARKANSAS                                                         COUNTY TOTAL          
+046           ARKANSAS                                                         CITY TOTAL            
+048           ARKANSAS                                                         SPECIAL DISTRICT TOTAL
+049           ARKANSAS                                                         SCHOOL TOTAL          
+051           CALIFORNIA                                                       STATE\LOCAL TOTAL     
+052           CALIFORNIA                                                       STATE TOTAL           
+053           CALIFORNIA                                                       LOCAL TOTAL           
+055           CALIFORNIA                                                       COUNTY TOTAL          
+056           CALIFORNIA                                                       CITY TOTAL            
+058           CALIFORNIA                                                       SPECIAL DISTRICT TOTAL
+059           CALIFORNIA                                                       SCHOOL TOTAL          
+061           COLORADO                                                         STATE\LOCAL TOTAL     
+062           COLORADO                                                         STATE TOTAL           
+063           COLORADO                                                         LOCAL TOTAL           
+065           COLORADO                                                         COUNTY TOTAL          
+066           COLORADO                                                         CITY TOTAL            
+068           COLORADO                                                         SPECIAL DISTRICT TOTAL
+069           COLORADO                                                         SCHOOL TOTAL          
+071           CONNECTICUT                                                      STATE\LOCAL TOTAL     
+072           CONNECTICUT                                                      STATE TOTAL           
+073           CONNECTICUT                                                      LOCAL TOTAL           
+076           CONNECTICUT                                                      CITY TOTAL            
+077           CONNECTICUT                                                      TOWN TOTAL            
+078           CONNECTICUT                                                      SPECIAL DISTRICT TOTAL
+079           CONNECTICUT                                                      SCHOOL TOTAL          
+081           DELAWARE                                                         STATE\LOCAL TOTAL     
+082           DELAWARE                                                         STATE TOTAL           
+083           DELAWARE                                                         LOCAL TOTAL           
+085           DELAWARE                                                         COUNTY TOTAL          
+086           DELAWARE                                                         CITY TOTAL            
+088           DELAWARE                                                         SPECIAL DISTRICT TOTAL
+089           DELAWARE                                                         SCHOOL TOTAL          
+091           DISTRICT OF COLUMBIA                                             STATE\LOCAL TOTAL     
+093           DISTRICT OF COLUMBIA                                             LOCAL TOTAL           
+096           DISTRICT OF COLUMBIA                                             CITY TOTAL            
+098           DISTRICT OF COLUMBIA                                             SPECIAL DISTRICT TOTAL
+101           FLORIDA                                                          STATE\LOCAL TOTAL     
+102           FLORIDA                                                          STATE TOTAL           
+103           FLORIDA                                                          LOCAL TOTAL           
+105           FLORIDA                                                          COUNTY TOTAL          
+106           FLORIDA                                                          CITY TOTAL            
+108           FLORIDA                                                          SPECIAL DISTRICT TOTAL
+109           FLORIDA                                                          SCHOOL TOTAL          
+111           GEORGIA                                                          STATE\LOCAL TOTAL     
+112           GEORGIA                                                          STATE TOTAL           
+113           GEORGIA                                                          LOCAL TOTAL           
+115           GEORGIA                                                          COUNTY TOTAL          
+116           GEORGIA                                                          CITY TOTAL            
+118           GEORGIA                                                          SPECIAL DISTRICT TOTAL
+119           GEORGIA                                                          SCHOOL TOTAL          
+121           HAWAII                                                           STATE\LOCAL TOTAL     
+122           HAWAII                                                           STATE TOTAL           
+123           HAWAII                                                           LOCAL TOTAL           
+125           HAWAII                                                           COUNTY TOTAL          
+126           HAWAII                                                           CITY TOTAL            
+128           HAWAII                                                           SPECIAL DISTRICT TOTAL
+131           IDAHO                                                            STATE\LOCAL TOTAL     
+132           IDAHO                                                            STATE TOTAL           
+133           IDAHO                                                            LOCAL TOTAL           
+135           IDAHO                                                            COUNTY TOTAL          
+136           IDAHO                                                            CITY TOTAL            
+138           IDAHO                                                            SPECIAL DISTRICT TOTAL
+139           IDAHO                                                            SCHOOL TOTAL          
+141           ILLINOIS                                                         STATE\LOCAL TOTAL     
+142           ILLINOIS                                                         STATE TOTAL           
+143           ILLINOIS                                                         LOCAL TOTAL           
+145           ILLINOIS                                                         COUNTY TOTAL          
+146           ILLINOIS                                                         CITY TOTAL            
+147           ILLINOIS                                                         TOWN TOTAL            
+148           ILLINOIS                                                         SPECIAL DISTRICT TOTAL
+149           ILLINOIS                                                         SCHOOL TOTAL          
+151           INDIANA                                                          STATE\LOCAL TOTAL     
+152           INDIANA                                                          STATE TOTAL           
+153           INDIANA                                                          LOCAL TOTAL           
+155           INDIANA                                                          COUNTY TOTAL          
+156           INDIANA                                                          CITY TOTAL            
+157           INDIANA                                                          TOWN TOTAL            
+158           INDIANA                                                          SPECIAL DISTRICT TOTAL
+159           INDIANA                                                          SCHOOL TOTAL          
+161           IOWA                                                             STATE\LOCAL TOTAL     
+162           IOWA                                                             STATE TOTAL           
+163           IOWA                                                             LOCAL TOTAL           
+165           IOWA                                                             COUNTY TOTAL          
+166           IOWA                                                             CITY TOTAL            
+168           IOWA                                                             SPECIAL DISTRICT TOTAL
+169           IOWA                                                             SCHOOL TOTAL          
+171           KANSAS                                                           STATE\LOCAL TOTAL     
+172           KANSAS                                                           STATE TOTAL           
+173           KANSAS                                                           LOCAL TOTAL           
+175           KANSAS                                                           COUNTY TOTAL          
+176           KANSAS                                                           CITY TOTAL            
+177           KANSAS                                                           TOWN TOTAL            
+178           KANSAS                                                           SPECIAL DISTRICT TOTAL
+179           KANSAS                                                           SCHOOL TOTAL          
+181           KENTUCKY                                                         STATE\LOCAL TOTAL     
+182           KENTUCKY                                                         STATE TOTAL           
+183           KENTUCKY                                                         LOCAL TOTAL           
+185           KENTUCKY                                                         COUNTY TOTAL          
+186           KENTUCKY                                                         CITY TOTAL            
+188           KENTUCKY                                                         SPECIAL DISTRICT TOTAL
+189           KENTUCKY                                                         SCHOOL TOTAL          
+191           LOUISIANA                                                        STATE\LOCAL TOTAL     
+192           LOUISIANA                                                        STATE TOTAL           
+193           LOUISIANA                                                        LOCAL TOTAL           
+195           LOUISIANA                                                        COUNTY TOTAL          
+196           LOUISIANA                                                        CITY TOTAL            
+198           LOUISIANA                                                        SPECIAL DISTRICT TOTAL
+199           LOUISIANA                                                        SCHOOL TOTAL          
+201           MAINE                                                            STATE\LOCAL TOTAL     
+202           MAINE                                                            STATE TOTAL           
+203           MAINE                                                            LOCAL TOTAL           
+205           MAINE                                                            COUNTY TOTAL          
+206           MAINE                                                            CITY TOTAL            
+207           MAINE                                                            TOWN TOTAL            
+208           MAINE                                                            SPECIAL DISTRICT TOTAL
+209           MAINE                                                            SCHOOL TOTAL          
+211           MARYLAND                                                         STATE\LOCAL TOTAL     
+212           MARYLAND                                                         STATE TOTAL           
+213           MARYLAND                                                         LOCAL TOTAL           
+215           MARYLAND                                                         COUNTY TOTAL          
+216           MARYLAND                                                         CITY TOTAL            
+218           MARYLAND                                                         SPECIAL DISTRICT TOTAL
+221           MASSACHUSETTS                                                    STATE\LOCAL TOTAL     
+222           MASSACHUSETTS                                                    STATE TOTAL           
+223           MASSACHUSETTS                                                    LOCAL TOTAL           
+225           MASSACHUSETTS                                                    COUNTY TOTAL          
+226           MASSACHUSETTS                                                    CITY TOTAL            
+227           MASSACHUSETTS                                                    TOWN TOTAL            
+228           MASSACHUSETTS                                                    SPECIAL DISTRICT TOTAL
+229           MASSACHUSETTS                                                    SCHOOL TOTAL          
+231           MICHIGAN                                                         STATE\LOCAL TOTAL     
+232           MICHIGAN                                                         STATE TOTAL           
+233           MICHIGAN                                                         LOCAL TOTAL           
+235           MICHIGAN                                                         COUNTY TOTAL          
+236           MICHIGAN                                                         CITY TOTAL            
+237           MICHIGAN                                                         TOWN TOTAL            
+238           MICHIGAN                                                         SPECIAL DISTRICT TOTAL
+239           MICHIGAN                                                         SCHOOL TOTAL          
+241           MINNESOTA                                                        STATE\LOCAL TOTAL     
+242           MINNESOTA                                                        STATE TOTAL           
+243           MINNESOTA                                                        LOCAL TOTAL           
+245           MINNESOTA                                                        COUNTY TOTAL          
+246           MINNESOTA                                                        CITY TOTAL            
+247           MINNESOTA                                                        TOWN TOTAL            
+248           MINNESOTA                                                        SPECIAL DISTRICT TOTAL
+249           MINNESOTA                                                        SCHOOL TOTAL          
+251           MISSISSIPPI                                                      STATE\LOCAL TOTAL     
+252           MISSISSIPPI                                                      STATE TOTAL           
+253           MISSISSIPPI                                                      LOCAL TOTAL           
+255           MISSISSIPPI                                                      COUNTY TOTAL          
+256           MISSISSIPPI                                                      CITY TOTAL            
+258           MISSISSIPPI                                                      SPECIAL DISTRICT TOTAL
+259           MISSISSIPPI                                                      SCHOOL TOTAL          
+261           MISSOURI                                                         STATE\LOCAL TOTAL     
+262           MISSOURI                                                         STATE TOTAL           
+263           MISSOURI                                                         LOCAL TOTAL           
+265           MISSOURI                                                         COUNTY TOTAL          
+266           MISSOURI                                                         CITY TOTAL            
+267           MISSOURI                                                         TOWN TOTAL            
+268           MISSOURI                                                         SPECIAL DISTRICT TOTAL
+269           MISSOURI                                                         SCHOOL TOTAL          
+271           MONTANA                                                          STATE\LOCAL TOTAL     
+272           MONTANA                                                          STATE TOTAL           
+273           MONTANA                                                          LOCAL TOTAL           
+275           MONTANA                                                          COUNTY TOTAL          
+276           MONTANA                                                          CITY TOTAL            
+278           MONTANA                                                          SPECIAL DISTRICT TOTAL
+279           MONTANA                                                          SCHOOL TOTAL          
+281           NEBRASKA                                                         STATE\LOCAL TOTAL     
+282           NEBRASKA                                                         STATE TOTAL           
+283           NEBRASKA                                                         LOCAL TOTAL           
+285           NEBRASKA                                                         COUNTY TOTAL          
+286           NEBRASKA                                                         CITY TOTAL            
+287           NEBRASKA                                                         TOWN TOTAL            
+288           NEBRASKA                                                         SPECIAL DISTRICT TOTAL
+289           NEBRASKA                                                         SCHOOL TOTAL          
+291           NEVADA                                                           STATE\LOCAL TOTAL     
+292           NEVADA                                                           STATE TOTAL           
+293           NEVADA                                                           LOCAL TOTAL           
+295           NEVADA                                                           COUNTY TOTAL          
+296           NEVADA                                                           CITY TOTAL            
+298           NEVADA                                                           SPECIAL DISTRICT TOTAL
+299           NEVADA                                                           SCHOOL TOTAL          
+301           NEW HAMPSHIRE                                                    STATE\LOCAL TOTAL     
+302           NEW HAMPSHIRE                                                    STATE TOTAL           
+303           NEW HAMPSHIRE                                                    LOCAL TOTAL           
+305           NEW HAMPSHIRE                                                    COUNTY TOTAL          
+306           NEW HAMPSHIRE                                                    CITY TOTAL            
+307           NEW HAMPSHIRE                                                    TOWN TOTAL            
+308           NEW HAMPSHIRE                                                    SPECIAL DISTRICT TOTAL
+309           NEW HAMPSHIRE                                                    SCHOOL TOTAL          
+311           NEW JERSEY                                                       STATE\LOCAL TOTAL     
+312           NEW JERSEY                                                       STATE TOTAL           
+313           NEW JERSEY                                                       LOCAL TOTAL           
+315           NEW JERSEY                                                       COUNTY TOTAL          
+316           NEW JERSEY                                                       CITY TOTAL            
+317           NEW JERSEY                                                       TOWN TOTAL            
+318           NEW JERSEY                                                       SPECIAL DISTRICT TOTAL
+319           NEW JERSEY                                                       SCHOOL TOTAL          
+321           NEW MEXICO                                                       STATE\LOCAL TOTAL     
+322           NEW MEXICO                                                       STATE TOTAL           
+323           NEW MEXICO                                                       LOCAL TOTAL           
+325           NEW MEXICO                                                       COUNTY TOTAL          
+326           NEW MEXICO                                                       CITY TOTAL            
+328           NEW MEXICO                                                       SPECIAL DISTRICT TOTAL
+329           NEW MEXICO                                                       SCHOOL TOTAL          
+331           NEW YORK                                                         STATE\LOCAL TOTAL     
+332           NEW YORK                                                         STATE TOTAL           
+333           NEW YORK                                                         LOCAL TOTAL           
+335           NEW YORK                                                         COUNTY TOTAL          
+336           NEW YORK                                                         CITY TOTAL            
+337           NEW YORK                                                         TOWN TOTAL            
+338           NEW YORK                                                         SPECIAL DISTRICT TOTAL
+339           NEW YORK                                                         SCHOOL TOTAL          
+341           NORTH CAROLINA                                                   STATE\LOCAL TOTAL     
+342           NORTH CAROLINA                                                   STATE TOTAL           
+343           NORTH CAROLINA                                                   LOCAL TOTAL           
+345           NORTH CAROLINA                                                   COUNTY TOTAL          
+346           NORTH CAROLINA                                                   CITY TOTAL            
+348           NORTH CAROLINA                                                   SPECIAL DISTRICT TOTAL
+351           NORTH DAKOTA                                                     STATE\LOCAL TOTAL     
+352           NORTH DAKOTA                                                     STATE TOTAL           
+353           NORTH DAKOTA                                                     LOCAL TOTAL           
+355           NORTH DAKOTA                                                     COUNTY TOTAL          
+356           NORTH DAKOTA                                                     CITY TOTAL            
+357           NORTH DAKOTA                                                     TOWN TOTAL            
+358           NORTH DAKOTA                                                     SPECIAL DISTRICT TOTAL
+359           NORTH DAKOTA                                                     SCHOOL TOTAL          
+361           OHIO                                                             STATE\LOCAL TOTAL     
+362           OHIO                                                             STATE TOTAL           
+363           OHIO                                                             LOCAL TOTAL           
+365           OHIO                                                             COUNTY TOTAL          
+366           OHIO                                                             CITY TOTAL            
+367           OHIO                                                             TOWN TOTAL            
+368           OHIO                                                             SPECIAL DISTRICT TOTAL
+369           OHIO                                                             SCHOOL TOTAL          
+371           OKLAHOMA                                                         STATE\LOCAL TOTAL     
+372           OKLAHOMA                                                         STATE TOTAL           
+373           OKLAHOMA                                                         LOCAL TOTAL           
+375           OKLAHOMA                                                         COUNTY TOTAL          
+376           OKLAHOMA                                                         CITY TOTAL            
+378           OKLAHOMA                                                         SPECIAL DISTRICT TOTAL
+379           OKLAHOMA                                                         SCHOOL TOTAL          
+381           OREGON                                                           STATE\LOCAL TOTAL     
+382           OREGON                                                           STATE TOTAL           
+383           OREGON                                                           LOCAL TOTAL           
+385           OREGON                                                           COUNTY TOTAL          
+386           OREGON                                                           CITY TOTAL            
+388           OREGON                                                           SPECIAL DISTRICT TOTAL
+389           OREGON                                                           SCHOOL TOTAL          
+391           PENNSYLVANIA                                                     STATE\LOCAL TOTAL     
+392           PENNSYLVANIA                                                     STATE TOTAL           
+393           PENNSYLVANIA                                                     LOCAL TOTAL           
+395           PENNSYLVANIA                                                     COUNTY TOTAL          
+396           PENNSYLVANIA                                                     CITY TOTAL            
+397           PENNSYLVANIA                                                     TOWN TOTAL            
+398           PENNSYLVANIA                                                     SPECIAL DISTRICT TOTAL
+399           PENNSYLVANIA                                                     SCHOOL TOTAL          
+401           RHODE ISLAND                                                     STATE\LOCAL TOTAL     
+402           RHODE ISLAND                                                     STATE TOTAL           
+403           RHODE ISLAND                                                     LOCAL TOTAL           
+406           RHODE ISLAND                                                     CITY TOTAL            
+407           RHODE ISLAND                                                     TOWN TOTAL            
+408           RHODE ISLAND                                                     SPECIAL DISTRICT TOTAL
+409           RHODE ISLAND                                                     SCHOOL TOTAL          
+411           SOUTH CAROLINA                                                   STATE\LOCAL TOTAL     
+412           SOUTH CAROLINA                                                   STATE TOTAL           
+413           SOUTH CAROLINA                                                   LOCAL TOTAL           
+415           SOUTH CAROLINA                                                   COUNTY TOTAL          
+416           SOUTH CAROLINA                                                   CITY TOTAL            
+418           SOUTH CAROLINA                                                   SPECIAL DISTRICT TOTAL
+419           SOUTH CAROLINA                                                   SCHOOL TOTAL          
+421           SOUTH DAKOTA                                                     STATE\LOCAL TOTAL     
+422           SOUTH DAKOTA                                                     STATE TOTAL           
+423           SOUTH DAKOTA                                                     LOCAL TOTAL           
+425           SOUTH DAKOTA                                                     COUNTY TOTAL          
+426           SOUTH DAKOTA                                                     CITY TOTAL            
+427           SOUTH DAKOTA                                                     TOWN TOTAL            
+428           SOUTH DAKOTA                                                     SPECIAL DISTRICT TOTAL
+429           SOUTH DAKOTA                                                     SCHOOL TOTAL          
+431           TENNESSEE                                                        STATE\LOCAL TOTAL     
+432           TENNESSEE                                                        STATE TOTAL           
+433           TENNESSEE                                                        LOCAL TOTAL           
+435           TENNESSEE                                                        COUNTY TOTAL          
+436           TENNESSEE                                                        CITY TOTAL            
+438           TENNESSEE                                                        SPECIAL DISTRICT TOTAL
+439           TENNESSEE                                                        SCHOOL TOTAL          
+441           TEXAS                                                            STATE\LOCAL TOTAL     
+442           TEXAS                                                            STATE TOTAL           
+443           TEXAS                                                            LOCAL TOTAL           
+445           TEXAS                                                            COUNTY TOTAL          
+446           TEXAS                                                            CITY TOTAL            
+448           TEXAS                                                            SPECIAL DISTRICT TOTAL
+449           TEXAS                                                            SCHOOL TOTAL          
+451           UTAH                                                             STATE\LOCAL TOTAL     
+452           UTAH                                                             STATE TOTAL           
+453           UTAH                                                             LOCAL TOTAL           
+455           UTAH                                                             COUNTY TOTAL          
+456           UTAH                                                             CITY TOTAL            
+458           UTAH                                                             SPECIAL DISTRICT TOTAL
+459           UTAH                                                             SCHOOL TOTAL          
+461           VERMONT                                                          STATE\LOCAL TOTAL     
+462           VERMONT                                                          STATE TOTAL           
+463           VERMONT                                                          LOCAL TOTAL           
+465           VERMONT                                                          COUNTY TOTAL          
+466           VERMONT                                                          CITY TOTAL            
+467           VERMONT                                                          TOWN TOTAL            
+468           VERMONT                                                          SPECIAL DISTRICT TOTAL
+469           VERMONT                                                          SCHOOL TOTAL          
+471           VIRGINIA                                                         STATE\LOCAL TOTAL     
+472           VIRGINIA                                                         STATE TOTAL           
+473           VIRGINIA                                                         LOCAL TOTAL           
+475           VIRGINIA                                                         COUNTY TOTAL          
+476           VIRGINIA                                                         CITY TOTAL            
+478           VIRGINIA                                                         SPECIAL DISTRICT TOTAL
+481           WASHINGTON                                                       STATE\LOCAL TOTAL     
+482           WASHINGTON                                                       STATE TOTAL           
+483           WASHINGTON                                                       LOCAL TOTAL           
+485           WASHINGTON                                                       COUNTY TOTAL          
+486           WASHINGTON                                                       CITY TOTAL            
+488           WASHINGTON                                                       SPECIAL DISTRICT TOTAL
+489           WASHINGTON                                                       SCHOOL TOTAL          
+491           WEST VIRGINIA                                                    STATE\LOCAL TOTAL     
+492           WEST VIRGINIA                                                    STATE TOTAL           
+493           WEST VIRGINIA                                                    LOCAL TOTAL           
+495           WEST VIRGINIA                                                    COUNTY TOTAL          
+496           WEST VIRGINIA                                                    CITY TOTAL            
+498           WEST VIRGINIA                                                    SPECIAL DISTRICT TOTAL
+499           WEST VIRGINIA                                                    SCHOOL TOTAL          
+501           WISCONSIN                                                        STATE\LOCAL TOTAL     
+502           WISCONSIN                                                        STATE TOTAL           
+503           WISCONSIN                                                        LOCAL TOTAL           
+505           WISCONSIN                                                        COUNTY TOTAL          
+506           WISCONSIN                                                        CITY TOTAL            
+507           WISCONSIN                                                        TOWN TOTAL            
+508           WISCONSIN                                                        SPECIAL DISTRICT TOTAL
+509           WISCONSIN                                                        SCHOOL TOTAL          
+511           WYOMING                                                          STATE\LOCAL TOTAL     
+512           WYOMING                                                          STATE TOTAL           
+513           WYOMING                                                          LOCAL TOTAL           
+515           WYOMING                                                          COUNTY TOTAL          
+516           WYOMING                                                          CITY TOTAL            
+518           WYOMING                                                          SPECIAL DISTRICT TOTAL
+519           WYOMING                                                          SCHOOL TOTAL          
